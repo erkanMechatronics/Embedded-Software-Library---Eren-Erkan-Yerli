@@ -1,0 +1,10 @@
+../Core/Src/BMP180.c:27:17:BMP180_device_reset	2
+../Core/Src/BMP180.c:47:20:BMP180_chip_ID	2
+../Core/Src/BMP180.c:63:10:BMP180_getCalib_data	2
+../Core/Src/BMP180.c:78:17:BMP180_write_data	2
+../Core/Src/BMP180.c:94:9:BMP180_read_data	1
+../Core/Src/BMP180.c:104:17:BMP180_check_sensor	2
+../Core/Src/BMP180.c:120:7:BMP180_read_utemp	1
+../Core/Src/BMP180.c:137:7:BMP180_read_rtemp	1
+../Core/Src/BMP180.c:157:8:BMP180_read_upres	5
+../Core/Src/BMP180.c:195:8:BMP180_read_rpres	4
