@@ -9,3 +9,5 @@ A collection of projects where I apply my knowledge of peripherals and FreeRTOS 
 This repository reflects my learning journey and showcases my skills as I prepare for my first role as a Junior Embedded Software Engineer.
 
 Feel free to explore, and any feedback is welcome!
+
+Eren Erkan Yerli
