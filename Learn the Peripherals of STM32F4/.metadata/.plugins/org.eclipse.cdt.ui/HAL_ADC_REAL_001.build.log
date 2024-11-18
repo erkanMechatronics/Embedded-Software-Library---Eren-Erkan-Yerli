@@ -1,0 +1,10 @@
+16:17:02 **** Incremental Build of configuration Debug for project HAL_ADC_REAL_001 ****
+make -j12 all 
+arm-none-eabi-size   HAL_ADC_REAL_001.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8200	     20	   1660	   9880	   2698	HAL_ADC_REAL_001.elf
+Finished building: default.size.stdout
+ 
+
+16:17:02 Build Finished. 0 errors, 0 warnings. (took 313ms)
+

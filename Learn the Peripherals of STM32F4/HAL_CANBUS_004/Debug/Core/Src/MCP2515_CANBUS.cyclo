@@ -1,0 +1,2 @@
+../Core/Src/MCP2515_CANBUS.c:22:6:CANSPI_Initialize	4
+../Core/Src/MCP2515_CANBUS.c:106:9:CANSPI_Transmit	4

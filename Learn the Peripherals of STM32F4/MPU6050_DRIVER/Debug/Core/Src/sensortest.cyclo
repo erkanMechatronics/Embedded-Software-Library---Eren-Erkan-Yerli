@@ -1,0 +1,2 @@
+../Core/Src/sensortest.c:13:6:sensorTest_init	1
+../Core/Src/sensortest.c:18:6:sensorTest_print_sensor_values	1

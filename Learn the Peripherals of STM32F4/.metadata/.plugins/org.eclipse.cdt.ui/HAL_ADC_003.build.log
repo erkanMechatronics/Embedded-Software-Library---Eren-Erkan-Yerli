@@ -1,0 +1,24 @@
+12:22:11 **** Incremental Build of configuration Debug for project HAL_ADC_003 ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F407xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'main':
+../Core/Src/main.c:103:4: warning: this 'if' clause does not guard... [-Wmisleading-indentation]
+  103 |    if(HAL_ADC_PollForConversion(&hadc1,100000) == HAL_OK);
+      |    ^~
+../Core/Src/main.c:104:4: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the 'if'
+  104 |    {
+      |    ^
+arm-none-eabi-gcc -o "HAL_ADC_003.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_ADC_003\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="HAL_ADC_003.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: HAL_ADC_003.elf
+ 
+arm-none-eabi-size   HAL_ADC_003.elf 
+arm-none-eabi-objdump -h -S  HAL_ADC_003.elf  > "HAL_ADC_003.list"
+   text	   data	    bss	    dec	    hex	filename
+   7976	     20	   1644	   9640	   25a8	HAL_ADC_003.elf
+Finished building: default.size.stdout
+ 
+Finished building: HAL_ADC_003.list
+ 
+
+12:22:12 Build Finished. 0 errors, 1 warnings. (took 870ms)
+

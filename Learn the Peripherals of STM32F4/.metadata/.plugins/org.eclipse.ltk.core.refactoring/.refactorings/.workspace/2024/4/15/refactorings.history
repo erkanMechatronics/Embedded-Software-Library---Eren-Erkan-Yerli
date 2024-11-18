@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;MPU6050_driver_2.0/Core/Src/MPU6050_sensor_driver&apos;" deleteContents="false" description="Delete resource &apos;MPU6050_driver_2.0/Core/Src/MPU6050_sensor_driver&apos;" element1="/MPU6050_driver_2.0/Core/Src/MPU6050_sensor_driver" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1712525381920"/>
+</session>

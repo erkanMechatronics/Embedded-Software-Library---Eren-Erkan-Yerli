@@ -1,0 +1,7 @@
+../Core/Src/MPU6050_sensor_driver.c:12:17:sensor_test_device	24	static
+../Core/Src/MPU6050_sensor_driver.c:29:9:sensor_read_register8	40	static
+../Core/Src/MPU6050_sensor_driver.c:38:10:sensor_read_register16	40	static
+../Core/Src/MPU6050_sensor_driver.c:51:17:sensor_write_register8	40	static
+../Core/Src/MPU6050_sensor_driver.c:67:17:sensor_write_register16	40	static
+../Core/Src/MPU6050_sensor_driver.c:88:17:sensor_read_bytes	40	static
+../Core/Src/MPU6050_sensor_driver.c:104:17:sensor_write_bytes	40	static

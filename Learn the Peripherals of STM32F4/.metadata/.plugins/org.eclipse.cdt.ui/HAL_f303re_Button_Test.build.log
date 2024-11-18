@@ -1,0 +1,10 @@
+00:04:06 **** Incremental Build of configuration Debug for project HAL_f303re_Button_Test ****
+make -j12 all 
+arm-none-eabi-size  HAL_f303re_Button_Test.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8040	     12	   1572	   9624	   2598	HAL_f303re_Button_Test.elf
+Finished building: default.size.stdout
+ 
+
+00:04:06 Build Finished. 0 errors, 0 warnings. (took 331ms)
+

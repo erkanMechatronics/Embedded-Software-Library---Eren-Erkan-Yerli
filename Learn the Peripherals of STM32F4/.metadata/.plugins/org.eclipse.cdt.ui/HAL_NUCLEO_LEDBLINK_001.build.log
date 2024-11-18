@@ -1,0 +1,10 @@
+16:54:13 **** Incremental Build of configuration Debug for project HAL_NUCLEO_LEDBLINK_001 ****
+make -j12 all 
+arm-none-eabi-size   HAL_NUCLEO_LEDBLINK_001.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8044	     20	   1572	   9636	   25a4	HAL_NUCLEO_LEDBLINK_001.elf
+Finished building: default.size.stdout
+ 
+
+16:54:13 Build Finished. 0 errors, 0 warnings. (took 399ms)
+

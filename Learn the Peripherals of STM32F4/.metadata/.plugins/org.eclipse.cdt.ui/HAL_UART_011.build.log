@@ -1,0 +1,10 @@
+23:22:53 **** Incremental Build of configuration Debug for project HAL_UART_011 ****
+make -j12 all 
+arm-none-eabi-size   HAL_UART_011.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13676	    100	   2076	  15852	   3dec	HAL_UART_011.elf
+Finished building: default.size.stdout
+ 
+
+23:22:54 Build Finished. 0 errors, 0 warnings. (took 342ms)
+

@@ -1,0 +1,6 @@
+../Core/Src/sensordriver.c:15:9:sensor_read_register8	40	static
+../Core/Src/sensordriver.c:31:9:sensor_read_register16	40	static
+../Core/Src/sensordriver.c:43:17:sensor_write_register8	32	static
+../Core/Src/sensordriver.c:55:17:sensor_write_register16	40	static
+../Core/Src/sensordriver.c:69:17:sensor_read_registers	32	static
+../Core/Src/sensordriver.c:81:17:sensor_write_registers	32	static

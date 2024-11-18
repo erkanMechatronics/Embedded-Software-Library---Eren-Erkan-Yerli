@@ -1,0 +1,131 @@
+2024-01-14 00:19:38,919 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-14 00:19:41,774 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 916652272 Bytes (1073741824)
+2024-01-14 00:19:43,993 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 702137400 Bytes (1073741824)
+2024-01-14 00:19:46,343 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 768197688 Bytes (1073741824)
+2024-01-14 00:19:46,930 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-01-14 00:19:46,931 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-01-14 00:19:46,931 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-01-14 00:19:46,931 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-01-14 00:19:46,931 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DMA
+2024-01-14 00:19:46,932 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-01-14 00:19:46,935 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.11.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.2.202309101412\\db\
+2024-01-14 00:19:46,955 [INFO] Argument:319 - Argument : hdmavalue: null
+2024-01-14 00:19:46,956 [INFO] Argument:321 - 	 sub Args: 
+2024-01-14 00:19:46,956 [INFO] Argument:319 - Argument : Instancevalue: DMA1_Stream5
+2024-01-14 00:19:46,956 [INFO] Argument:329 - Argument : Instancevalue: DMA1_Stream5
+2024-01-14 00:19:46,956 [INFO] Argument:319 - Argument : Initvalue: null
+2024-01-14 00:19:46,956 [INFO] Argument:321 - 	 sub Args: 
+2024-01-14 00:19:46,956 [INFO] Argument:319 - Argument : Channelvalue: DMA_CHANNEL_4
+2024-01-14 00:19:46,956 [INFO] Argument:329 - Argument : Channelvalue: DMA_CHANNEL_4
+2024-01-14 00:19:46,956 [INFO] Argument:319 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2024-01-14 00:19:46,956 [INFO] Argument:329 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2024-01-14 00:19:46,956 [INFO] Argument:319 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-01-14 00:19:46,956 [INFO] Argument:329 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-01-14 00:19:46,956 [INFO] Argument:319 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-01-14 00:19:46,956 [INFO] Argument:329 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-01-14 00:19:46,956 [INFO] Argument:319 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2024-01-14 00:19:46,956 [INFO] Argument:329 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2024-01-14 00:19:46,956 [INFO] Argument:319 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2024-01-14 00:19:46,956 [INFO] Argument:329 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2024-01-14 00:19:46,956 [INFO] Argument:319 - Argument : Modevalue: DMA_NORMAL
+2024-01-14 00:19:46,956 [INFO] Argument:329 - Argument : Modevalue: DMA_NORMAL
+2024-01-14 00:19:46,956 [INFO] Argument:319 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-01-14 00:19:46,956 [INFO] Argument:329 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-01-14 00:19:46,956 [INFO] Argument:319 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2024-01-14 00:19:46,956 [INFO] Argument:329 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2024-01-14 00:19:46,956 [INFO] Argument:319 - Argument : FIFOThresholdvalue: null
+2024-01-14 00:19:46,956 [INFO] Argument:329 - Argument : FIFOThresholdvalue: null
+2024-01-14 00:19:46,956 [INFO] Argument:319 - Argument : MemBurstvalue: null
+2024-01-14 00:19:46,956 [INFO] Argument:329 - Argument : MemBurstvalue: null
+2024-01-14 00:19:46,956 [INFO] Argument:319 - Argument : PeriphBurstvalue: null
+2024-01-14 00:19:46,956 [INFO] Argument:329 - Argument : PeriphBurstvalue: null
+2024-01-14 00:19:46,956 [INFO] Argument:319 - Argument : Lockvalue: null
+2024-01-14 00:19:46,956 [INFO] Argument:329 - Argument : Lockvalue: null
+2024-01-14 00:19:46,956 [INFO] Argument:319 - Argument : Statevalue: null
+2024-01-14 00:19:46,958 [INFO] Argument:329 - Argument : Statevalue: null
+2024-01-14 00:19:46,958 [INFO] Argument:319 - Argument : Parentvalue: null
+2024-01-14 00:19:46,958 [INFO] Argument:329 - Argument : Parentvalue: null
+2024-01-14 00:19:46,958 [INFO] Argument:319 - Argument : XferCpltCallbackvalue: null
+2024-01-14 00:19:46,958 [INFO] Argument:329 - Argument : XferCpltCallbackvalue: null
+2024-01-14 00:19:46,958 [INFO] Argument:319 - Argument : XferHalfCpltCallbackvalue: null
+2024-01-14 00:19:46,958 [INFO] Argument:329 - Argument : XferHalfCpltCallbackvalue: null
+2024-01-14 00:19:46,958 [INFO] Argument:319 - Argument : XferM1CpltCallbackvalue: null
+2024-01-14 00:19:46,958 [INFO] Argument:329 - Argument : XferM1CpltCallbackvalue: null
+2024-01-14 00:19:46,958 [INFO] Argument:319 - Argument : XferErrorCallbackvalue: null
+2024-01-14 00:19:46,958 [INFO] Argument:329 - Argument : XferErrorCallbackvalue: null
+2024-01-14 00:19:46,958 [INFO] Argument:319 - Argument : ErrorCodevalue: null
+2024-01-14 00:19:46,958 [INFO] Argument:329 - Argument : ErrorCodevalue: null
+2024-01-14 00:19:46,959 [INFO] Argument:319 - Argument : hdmavalue: null
+2024-01-14 00:19:46,959 [INFO] Argument:321 - 	 sub Args: 
+2024-01-14 00:19:46,959 [INFO] Argument:319 - Argument : Instancevalue: DMA1_Stream6
+2024-01-14 00:19:46,959 [INFO] Argument:329 - Argument : Instancevalue: DMA1_Stream6
+2024-01-14 00:19:46,959 [INFO] Argument:319 - Argument : Initvalue: null
+2024-01-14 00:19:46,959 [INFO] Argument:321 - 	 sub Args: 
+2024-01-14 00:19:46,959 [INFO] Argument:319 - Argument : Channelvalue: DMA_CHANNEL_4
+2024-01-14 00:19:46,959 [INFO] Argument:329 - Argument : Channelvalue: DMA_CHANNEL_4
+2024-01-14 00:19:46,959 [INFO] Argument:319 - Argument : Directionvalue: DMA_MEMORY_TO_PERIPH
+2024-01-14 00:19:46,959 [INFO] Argument:329 - Argument : Directionvalue: DMA_MEMORY_TO_PERIPH
+2024-01-14 00:19:46,959 [INFO] Argument:319 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-01-14 00:19:46,959 [INFO] Argument:329 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-01-14 00:19:46,959 [INFO] Argument:319 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-01-14 00:19:46,959 [INFO] Argument:329 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-01-14 00:19:46,959 [INFO] Argument:319 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2024-01-14 00:19:46,959 [INFO] Argument:329 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2024-01-14 00:19:46,959 [INFO] Argument:319 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2024-01-14 00:19:46,959 [INFO] Argument:329 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2024-01-14 00:19:46,959 [INFO] Argument:319 - Argument : Modevalue: DMA_NORMAL
+2024-01-14 00:19:46,959 [INFO] Argument:329 - Argument : Modevalue: DMA_NORMAL
+2024-01-14 00:19:46,959 [INFO] Argument:319 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-01-14 00:19:46,961 [INFO] Argument:329 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-01-14 00:19:46,961 [INFO] Argument:319 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2024-01-14 00:19:46,961 [INFO] Argument:329 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2024-01-14 00:19:46,961 [INFO] Argument:319 - Argument : FIFOThresholdvalue: null
+2024-01-14 00:19:46,961 [INFO] Argument:329 - Argument : FIFOThresholdvalue: null
+2024-01-14 00:19:46,961 [INFO] Argument:319 - Argument : MemBurstvalue: null
+2024-01-14 00:19:46,961 [INFO] Argument:329 - Argument : MemBurstvalue: null
+2024-01-14 00:19:46,961 [INFO] Argument:319 - Argument : PeriphBurstvalue: null
+2024-01-14 00:19:46,961 [INFO] Argument:329 - Argument : PeriphBurstvalue: null
+2024-01-14 00:19:46,961 [INFO] Argument:319 - Argument : Lockvalue: null
+2024-01-14 00:19:46,961 [INFO] Argument:329 - Argument : Lockvalue: null
+2024-01-14 00:19:46,961 [INFO] Argument:319 - Argument : Statevalue: null
+2024-01-14 00:19:46,961 [INFO] Argument:329 - Argument : Statevalue: null
+2024-01-14 00:19:46,961 [INFO] Argument:319 - Argument : Parentvalue: null
+2024-01-14 00:19:46,961 [INFO] Argument:329 - Argument : Parentvalue: null
+2024-01-14 00:19:46,961 [INFO] Argument:319 - Argument : XferCpltCallbackvalue: null
+2024-01-14 00:19:46,961 [INFO] Argument:329 - Argument : XferCpltCallbackvalue: null
+2024-01-14 00:19:46,961 [INFO] Argument:319 - Argument : XferHalfCpltCallbackvalue: null
+2024-01-14 00:19:46,961 [INFO] Argument:329 - Argument : XferHalfCpltCallbackvalue: null
+2024-01-14 00:19:46,961 [INFO] Argument:319 - Argument : XferM1CpltCallbackvalue: null
+2024-01-14 00:19:46,961 [INFO] Argument:329 - Argument : XferM1CpltCallbackvalue: null
+2024-01-14 00:19:46,961 [INFO] Argument:319 - Argument : XferErrorCallbackvalue: null
+2024-01-14 00:19:46,961 [INFO] Argument:329 - Argument : XferErrorCallbackvalue: null
+2024-01-14 00:19:46,961 [INFO] Argument:319 - Argument : ErrorCodevalue: null
+2024-01-14 00:19:46,961 [INFO] Argument:329 - Argument : ErrorCodevalue: null
+2024-01-14 00:19:47,477 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_UART_012\MXTmpFiles\license.tmp_save
+2024-01-14 00:19:47,676 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_UART_012\MXTmpFiles\license.tmp
+2024-01-14 00:19:47,705 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_UART_012\MXTmpFiles\gpio.tmp_save
+2024-01-14 00:19:47,836 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_UART_012\MXTmpFiles\gpio.tmp
+2024-01-14 00:19:47,958 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_UART_012\MXTmpFiles\dma.tmp_save
+2024-01-14 00:19:48,055 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_UART_012\MXTmpFiles\dma.tmp
+2024-01-14 00:19:48,062 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_UART_012\MXTmpFiles\dma_GV.tmp_save
+2024-01-14 00:19:48,132 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_UART_012\MXTmpFiles\dma_GV.tmp
+2024-01-14 00:19:48,172 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_UART_012\Core\Src\stm32f4xx_it.c_save
+2024-01-14 00:19:48,383 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_UART_012\Core\Src\stm32f4xx_it.c
+2024-01-14 00:19:48,413 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_UART_012\Core\Inc\stm32f4xx_it.h_save
+2024-01-14 00:19:48,522 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_UART_012\Core\Inc\stm32f4xx_it.h
+2024-01-14 00:19:48,559 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_UART_012\Core\Src\stm32f4xx_hal_msp.c_save
+2024-01-14 00:19:48,806 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_UART_012\Core\Src\stm32f4xx_hal_msp.c
+2024-01-14 00:19:48,818 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_UART_012\MXTmpFiles\system.tmp_save
+2024-01-14 00:19:48,951 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_UART_012\MXTmpFiles\system.tmp
+2024-01-14 00:19:48,990 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_UART_012\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-01-14 00:19:49,119 [INFO] CodeEngine:335 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_UART_012\Core\Inc\stm32f4xx_hal_conf.h
+2024-01-14 00:19:49,179 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_UART_012\Core\Inc\main.h_save
+2024-01-14 00:19:49,267 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_UART_012\Core\Inc\main.h
+2024-01-14 00:19:49,284 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_UART_012\Core\Src\main.c_save
+2024-01-14 00:19:49,408 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_UART_012\Core\Src\main.c
+2024-01-14 00:19:50,098 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 302mS.
+2024-01-14 00:19:50,102 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2024-01-14 00:19:50,399 [INFO] ConfigFileManager:1457 - The Die is : DIE413
+2024-01-14 00:19:51,750 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1648mS.
+2024-01-14 00:19:51,752 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2024-01-14 00:19:51,756 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.

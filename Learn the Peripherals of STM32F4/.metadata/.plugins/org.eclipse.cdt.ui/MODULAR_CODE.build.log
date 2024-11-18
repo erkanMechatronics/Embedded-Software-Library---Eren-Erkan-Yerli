@@ -1,0 +1,10 @@
+14:56:42 **** Incremental Build of configuration Debug for project MODULAR_CODE ****
+make -j12 all 
+arm-none-eabi-size   MODULAR_CODE.elf 
+   text	   data	    bss	    dec	    hex	filename
+  32020	    152	   3592	  35764	   8bb4	MODULAR_CODE.elf
+Finished building: default.size.stdout
+ 
+
+14:56:42 Build Finished. 0 errors, 0 warnings. (took 377ms)
+

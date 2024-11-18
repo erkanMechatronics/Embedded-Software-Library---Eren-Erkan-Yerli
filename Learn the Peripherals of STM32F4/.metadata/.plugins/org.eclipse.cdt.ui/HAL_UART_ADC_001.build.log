@@ -1,0 +1,23 @@
+14:57:45 **** Incremental Build of configuration Debug for project HAL_UART_ADC_001 ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103x6 -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "HAL_UART_ADC_001.elf" @"objects.list"   -mcpu=cortex-m3 -T"C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_UART_ADC_001\STM32F103R6TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="HAL_UART_ADC_001.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: HAL_UART_ADC_001.elf
+ 
+arm-none-eabi-size   HAL_UART_ADC_001.elf 
+arm-none-eabi-objdump -h -S  HAL_UART_ADC_001.elf  > "HAL_UART_ADC_001.list"
+arm-none-eabi-objcopy  -O ihex  HAL_UART_ADC_001.elf  "HAL_UART_ADC_001.hex"
+   text	   data	    bss	    dec	    hex	filename
+   9024	     20	   1700	  10744	   29f8	HAL_UART_ADC_001.elf
+arm-none-eabi-objcopy  -O binary  HAL_UART_ADC_001.elf  "HAL_UART_ADC_001.bin"
+Finished building: default.size.stdout
+ 
+Finished building: HAL_UART_ADC_001.hex
+Finished building: HAL_UART_ADC_001.bin
+ 
+Finished building: HAL_UART_ADC_001.list
+ 
+ 
+
+14:57:45 Build Finished. 0 errors, 0 warnings. (took 808ms)
+

@@ -1,0 +1,17 @@
+19:58:18 **** Incremental Build of configuration Debug for project ws2812_control ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/ws2812.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F407xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/ws2812.d" -MT"Core/Src/ws2812.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/ws2812.o"
+arm-none-eabi-gcc -o "ws2812_control.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\ws2812_control\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="ws2812_control.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: ws2812_control.elf
+ 
+arm-none-eabi-size  ws2812_control.elf 
+arm-none-eabi-objdump -h -S ws2812_control.elf  > "ws2812_control.list"
+   text	   data	    bss	    dec	    hex	filename
+   6268	     12	   1660	   7940	   1f04	ws2812_control.elf
+Finished building: default.size.stdout
+ 
+Finished building: ws2812_control.list
+ 
+
+19:58:19 Build Finished. 0 errors, 0 warnings. (took 950ms)
+

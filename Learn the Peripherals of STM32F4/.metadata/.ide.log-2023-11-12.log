@@ -1,0 +1,119 @@
+2023-11-13 00:18:54,900 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-11-13 00:19:04,862 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-11-13 00:19:11,429 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-11-13 00:19:17,625 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-11-13 00:19:23,695 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-11-13 00:19:27,394 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 291762056 Bytes (952107008)
+2023-11-13 00:19:28,796 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 320073608 Bytes (952107008)
+2023-11-13 00:19:30,849 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 455584352 Bytes (952107008)
+2023-11-13 00:19:31,064 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-11-13 00:19:31,064 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-11-13 00:19:31,064 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-11-13 00:19:31,064 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-11-13 00:19:31,064 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-11-13 00:19:31,066 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.11.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.2.202309101412\\db\
+2023-11-13 00:19:31,176 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\MXTmpFiles\license.tmp_save
+2023-11-13 00:19:31,259 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\MXTmpFiles\license.tmp
+2023-11-13 00:19:31,285 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\MXTmpFiles\gpio.tmp_save
+2023-11-13 00:19:31,365 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\MXTmpFiles\gpio.tmp
+2023-11-13 00:19:31,427 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Src\stm32f4xx_it.c_save
+2023-11-13 00:19:31,557 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Src\stm32f4xx_it.c
+2023-11-13 00:19:31,567 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Inc\stm32f4xx_it.h_save
+2023-11-13 00:19:31,636 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Inc\stm32f4xx_it.h
+2023-11-13 00:19:31,662 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Src\stm32f4xx_hal_msp.c_save
+2023-11-13 00:19:32,006 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Src\stm32f4xx_hal_msp.c
+2023-11-13 00:19:32,011 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\MXTmpFiles\system.tmp_save
+2023-11-13 00:19:32,068 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\MXTmpFiles\system.tmp
+2023-11-13 00:19:32,093 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-11-13 00:19:32,189 [INFO] CodeEngine:335 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Inc\stm32f4xx_hal_conf.h
+2023-11-13 00:19:32,219 [WARN] IPConfigManager:3431 - IP not found : TIM
+2023-11-13 00:19:32,220 [WARN] CodeGenerator:3764 - IP not found : null
+2023-11-13 00:19:32,236 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Inc\main.h_save
+2023-11-13 00:19:32,312 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Inc\main.h
+2023-11-13 00:19:32,326 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Src\main.c_save
+2023-11-13 00:19:32,439 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Src\main.c
+2023-11-13 00:19:33,021 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 273mS.
+2023-11-13 00:19:33,026 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-11-13 00:19:33,181 [INFO] ConfigFileManager:1457 - The Die is : DIE413
+2023-11-13 00:19:34,444 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1417mS.
+2023-11-13 00:19:34,445 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-11-13 00:19:34,448 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-11-13 00:21:37,908 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-11-13 00:21:42,608 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-11-13 00:21:45,549 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-11-13 00:21:49,200 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-11-13 00:21:50,812 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 620431168 Bytes (1030750208)
+2023-11-13 00:21:52,126 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 649269056 Bytes (1030750208)
+2023-11-13 00:21:52,645 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 691734336 Bytes (1030750208)
+2023-11-13 00:21:52,948 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-11-13 00:21:52,948 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-11-13 00:21:52,948 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-11-13 00:21:52,948 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-11-13 00:21:52,950 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-11-13 00:21:52,952 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.11.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.2.202309101412\\db\
+2023-11-13 00:21:53,094 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\MXTmpFiles\license.tmp_save
+2023-11-13 00:21:53,183 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\MXTmpFiles\license.tmp
+2023-11-13 00:21:53,199 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\MXTmpFiles\gpio.tmp_save
+2023-11-13 00:21:53,275 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\MXTmpFiles\gpio.tmp
+2023-11-13 00:21:53,330 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Src\stm32f4xx_it.c_save
+2023-11-13 00:21:53,410 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Src\stm32f4xx_it.c
+2023-11-13 00:21:53,420 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Inc\stm32f4xx_it.h_save
+2023-11-13 00:21:53,485 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Inc\stm32f4xx_it.h
+2023-11-13 00:21:53,517 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Src\stm32f4xx_hal_msp.c_save
+2023-11-13 00:21:53,602 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Src\stm32f4xx_hal_msp.c
+2023-11-13 00:21:53,607 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\MXTmpFiles\system.tmp_save
+2023-11-13 00:21:53,661 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\MXTmpFiles\system.tmp
+2023-11-13 00:21:53,680 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-11-13 00:21:53,789 [INFO] CodeEngine:335 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Inc\stm32f4xx_hal_conf.h
+2023-11-13 00:21:53,810 [WARN] IPConfigManager:3431 - IP not found : TIM
+2023-11-13 00:21:53,811 [WARN] CodeGenerator:3764 - IP not found : null
+2023-11-13 00:21:53,828 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Inc\main.h_save
+2023-11-13 00:21:53,899 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Inc\main.h
+2023-11-13 00:21:53,915 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Src\main.c_save
+2023-11-13 00:21:54,016 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Src\main.c
+2023-11-13 00:21:54,454 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 199mS.
+2023-11-13 00:21:54,457 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-11-13 00:21:54,604 [INFO] ConfigFileManager:1457 - The Die is : DIE413
+2023-11-13 00:21:55,883 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1426mS.
+2023-11-13 00:21:55,891 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 7mS.
+2023-11-13 00:21:55,897 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-11-13 00:23:04,747 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-11-13 00:23:09,895 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-11-13 00:23:13,058 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-11-13 00:23:15,751 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-11-13 00:23:26,928 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-11-13 00:23:49,580 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 479309760 Bytes (989855744)
+2023-11-13 00:23:50,962 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 508147648 Bytes (989855744)
+2023-11-13 00:23:51,444 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 547993536 Bytes (989855744)
+2023-11-13 00:23:51,659 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-11-13 00:23:51,659 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-11-13 00:23:51,659 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-11-13 00:23:51,659 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-11-13 00:23:51,660 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-11-13 00:23:51,662 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.11.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.2.202309101412\\db\
+2023-11-13 00:23:51,785 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\MXTmpFiles\license.tmp_save
+2023-11-13 00:23:51,861 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\MXTmpFiles\license.tmp
+2023-11-13 00:23:51,876 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\MXTmpFiles\gpio.tmp_save
+2023-11-13 00:23:51,953 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\MXTmpFiles\gpio.tmp
+2023-11-13 00:23:52,006 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Src\stm32f4xx_it.c_save
+2023-11-13 00:23:52,074 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Src\stm32f4xx_it.c
+2023-11-13 00:23:52,081 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Inc\stm32f4xx_it.h_save
+2023-11-13 00:23:52,138 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Inc\stm32f4xx_it.h
+2023-11-13 00:23:52,159 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Src\stm32f4xx_hal_msp.c_save
+2023-11-13 00:23:52,239 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Src\stm32f4xx_hal_msp.c
+2023-11-13 00:23:52,244 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\MXTmpFiles\system.tmp_save
+2023-11-13 00:23:52,297 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\MXTmpFiles\system.tmp
+2023-11-13 00:23:52,314 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-11-13 00:23:52,399 [INFO] CodeEngine:335 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Inc\stm32f4xx_hal_conf.h
+2023-11-13 00:23:52,419 [WARN] IPConfigManager:3431 - IP not found : TIM
+2023-11-13 00:23:52,420 [WARN] CodeGenerator:3764 - IP not found : null
+2023-11-13 00:23:52,435 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Inc\main.h_save
+2023-11-13 00:23:52,502 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Inc\main.h
+2023-11-13 00:23:52,517 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Src\main.c_save
+2023-11-13 00:23:52,693 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_PWM_001\Core\Src\main.c
+2023-11-13 00:23:53,155 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 174mS.
+2023-11-13 00:23:53,158 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-11-13 00:23:53,304 [INFO] ConfigFileManager:1457 - The Die is : DIE413
+2023-11-13 00:23:54,440 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1282mS.
+2023-11-13 00:23:54,442 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-11-13 00:23:54,446 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.

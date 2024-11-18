@@ -1,0 +1,17 @@
+09:54:44 **** Incremental Build of configuration Debug for project stm32_freertos_volatile ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F407xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O3 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "stm32_freertos_volatile.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\stm32_freertos_volatile\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="stm32_freertos_volatile.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: stm32_freertos_volatile.elf
+ 
+arm-none-eabi-size  stm32_freertos_volatile.elf 
+arm-none-eabi-objdump -h -S stm32_freertos_volatile.elf  > "stm32_freertos_volatile.list"
+   text	   data	    bss	    dec	    hex	filename
+   5648	     12	   1644	   7304	   1c88	stm32_freertos_volatile.elf
+Finished building: default.size.stdout
+ 
+Finished building: stm32_freertos_volatile.list
+ 
+
+09:54:45 Build Finished. 0 errors, 0 warnings. (took 889ms)
+

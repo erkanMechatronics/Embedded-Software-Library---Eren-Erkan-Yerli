@@ -1,0 +1,10 @@
+23:23:16 **** Incremental Build of configuration Debug for project MFK_HAL_PWM_003 ****
+make -j12 all 
+arm-none-eabi-size   MFK_HAL_PWM_003.elf 
+   text	   data	    bss	    dec	    hex	filename
+  12700	     20	   1820	  14540	   38cc	MFK_HAL_PWM_003.elf
+Finished building: default.size.stdout
+ 
+
+23:23:16 Build Finished. 0 errors, 0 warnings. (took 318ms)
+

@@ -1,0 +1,202 @@
+2023-10-26 00:01:06,250 [INFO] Gpio:273 - dependency for GPIO [ADC1, SYS, USART2]
+2023-10-26 00:01:20,320 [INFO] Gpio:273 - dependency for GPIO [ADC1, SYS, USART2]
+2023-10-26 00:01:20,357 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-26 00:01:27,403 [INFO] Gpio:273 - dependency for GPIO [ADC1, SYS, USART2]
+2023-10-26 00:01:27,431 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-26 00:01:27,572 [INFO] Gpio:273 - dependency for GPIO [ADC1, SYS, USART2]
+2023-10-26 00:01:27,600 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-26 00:01:32,366 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 375462688 Bytes (870318080)
+2023-10-26 00:01:33,777 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 404822816 Bytes (870318080)
+2023-10-26 00:01:35,884 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 504437536 Bytes (870318080)
+2023-10-26 00:01:36,121 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-10-26 00:01:36,121 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2023-10-26 00:01:36,121 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-10-26 00:01:36,121 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-10-26 00:01:36,121 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-10-26 00:01:36,121 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-10-26 00:01:36,123 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.11.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.2.202309101412\\db\
+2023-10-26 00:01:36,229 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\MXTmpFiles\license.tmp_save
+2023-10-26 00:01:36,345 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\MXTmpFiles\license.tmp
+2023-10-26 00:01:36,369 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\MXTmpFiles\gpio.tmp_save
+2023-10-26 00:01:36,483 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\MXTmpFiles\gpio.tmp
+2023-10-26 00:01:36,573 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Src\stm32f4xx_it.c_save
+2023-10-26 00:01:36,807 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Src\stm32f4xx_it.c
+2023-10-26 00:01:36,817 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Inc\stm32f4xx_it.h_save
+2023-10-26 00:01:36,897 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Inc\stm32f4xx_it.h
+2023-10-26 00:01:36,927 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Src\stm32f4xx_hal_msp.c_save
+2023-10-26 00:01:37,030 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Src\stm32f4xx_hal_msp.c
+2023-10-26 00:01:37,037 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\MXTmpFiles\system.tmp_save
+2023-10-26 00:01:37,094 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\MXTmpFiles\system.tmp
+2023-10-26 00:01:37,119 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-10-26 00:01:37,214 [INFO] CodeEngine:335 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Inc\stm32f4xx_hal_conf.h
+2023-10-26 00:01:37,270 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Inc\main.h_save
+2023-10-26 00:01:37,355 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Inc\main.h
+2023-10-26 00:01:37,370 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Src\main.c_save
+2023-10-26 00:01:37,490 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Src\main.c
+2023-10-26 00:01:37,979 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 225mS.
+2023-10-26 00:01:37,983 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-10-26 00:01:38,264 [INFO] ConfigFileManager:1457 - The Die is : DIE413
+2023-10-26 00:01:39,578 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1595mS.
+2023-10-26 00:01:39,580 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-10-26 00:01:39,586 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-10-26 00:03:13,283 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 411054064 Bytes (982515712)
+2023-10-26 00:03:14,599 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 466628592 Bytes (982515712)
+2023-10-26 00:03:15,120 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 527968240 Bytes (982515712)
+2023-10-26 00:03:15,381 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-10-26 00:03:15,382 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2023-10-26 00:03:15,382 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-10-26 00:03:15,382 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-10-26 00:03:15,382 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-10-26 00:03:15,382 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-10-26 00:03:15,384 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.11.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.2.202309101412\\db\
+2023-10-26 00:03:15,495 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\MXTmpFiles\license.tmp_save
+2023-10-26 00:03:15,575 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\MXTmpFiles\license.tmp
+2023-10-26 00:03:15,675 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\MXTmpFiles\gpio.tmp_save
+2023-10-26 00:03:15,755 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\MXTmpFiles\gpio.tmp
+2023-10-26 00:03:15,828 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Src\stm32f4xx_it.c_save
+2023-10-26 00:03:15,909 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Src\stm32f4xx_it.c
+2023-10-26 00:03:15,917 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Inc\stm32f4xx_it.h_save
+2023-10-26 00:03:15,976 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Inc\stm32f4xx_it.h
+2023-10-26 00:03:16,001 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Src\stm32f4xx_hal_msp.c_save
+2023-10-26 00:03:16,080 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Src\stm32f4xx_hal_msp.c
+2023-10-26 00:03:16,088 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\MXTmpFiles\system.tmp_save
+2023-10-26 00:03:16,144 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\MXTmpFiles\system.tmp
+2023-10-26 00:03:16,168 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-10-26 00:03:16,260 [INFO] CodeEngine:335 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Inc\stm32f4xx_hal_conf.h
+2023-10-26 00:03:16,314 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Inc\main.h_save
+2023-10-26 00:03:16,388 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Inc\main.h
+2023-10-26 00:03:16,408 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Src\main.c_save
+2023-10-26 00:03:16,524 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Src\main.c
+2023-10-26 00:03:17,091 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 230mS.
+2023-10-26 00:03:17,095 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-10-26 00:03:17,246 [INFO] ConfigFileManager:1457 - The Die is : DIE413
+2023-10-26 00:03:18,457 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1362mS.
+2023-10-26 00:03:18,459 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 2mS.
+2023-10-26 00:03:18,463 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-10-26 00:08:16,504 [INFO] Gpio:273 - dependency for GPIO [ADC1, SYS, USART2]
+2023-10-26 00:08:16,533 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-26 00:08:18,401 [INFO] Gpio:273 - dependency for GPIO [ADC1, SYS, USART2]
+2023-10-26 00:08:36,596 [INFO] Gpio:273 - dependency for GPIO [ADC1, SYS, USART2]
+2023-10-26 00:08:39,132 [INFO] Gpio:273 - dependency for GPIO [ADC1, SYS, USART2]
+2023-10-26 00:08:39,294 [INFO] Gpio:273 - dependency for GPIO [ADC1, SYS, USART2]
+2023-10-26 00:09:19,612 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 310069184 Bytes (870318080)
+2023-10-26 00:09:21,329 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 339951552 Bytes (870318080)
+2023-10-26 00:09:21,842 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 385052960 Bytes (870318080)
+2023-10-26 00:09:22,085 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-10-26 00:09:22,085 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2023-10-26 00:09:22,085 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-10-26 00:09:22,085 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-10-26 00:09:22,086 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-10-26 00:09:22,100 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-10-26 00:09:22,101 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.11.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.2.202309101412\\db\
+2023-10-26 00:09:22,223 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\MXTmpFiles\license.tmp_save
+2023-10-26 00:09:22,301 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\MXTmpFiles\license.tmp
+2023-10-26 00:09:22,320 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\MXTmpFiles\gpio.tmp_save
+2023-10-26 00:09:22,407 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\MXTmpFiles\gpio.tmp
+2023-10-26 00:09:22,480 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Src\stm32f4xx_it.c_save
+2023-10-26 00:09:22,587 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Src\stm32f4xx_it.c
+2023-10-26 00:09:22,596 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Inc\stm32f4xx_it.h_save
+2023-10-26 00:09:22,679 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Inc\stm32f4xx_it.h
+2023-10-26 00:09:22,703 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Src\stm32f4xx_hal_msp.c_save
+2023-10-26 00:09:22,785 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Src\stm32f4xx_hal_msp.c
+2023-10-26 00:09:22,790 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\MXTmpFiles\system.tmp_save
+2023-10-26 00:09:22,845 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\MXTmpFiles\system.tmp
+2023-10-26 00:09:22,865 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-10-26 00:09:22,958 [INFO] CodeEngine:335 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Inc\stm32f4xx_hal_conf.h
+2023-10-26 00:09:23,000 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Inc\main.h_save
+2023-10-26 00:09:23,074 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Inc\main.h
+2023-10-26 00:09:23,092 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Src\main.c_save
+2023-10-26 00:09:23,206 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Src\main.c
+2023-10-26 00:09:23,667 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 205mS.
+2023-10-26 00:09:23,671 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-10-26 00:09:24,001 [INFO] ConfigFileManager:1457 - The Die is : DIE413
+2023-10-26 00:09:25,232 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1560mS.
+2023-10-26 00:09:25,234 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 2mS.
+2023-10-26 00:09:25,237 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-10-26 00:18:18,212 [INFO] Gpio:273 - dependency for GPIO [ADC1, SYS, USART2]
+2023-10-26 00:18:39,865 [INFO] Gpio:273 - dependency for GPIO [ADC1, SYS, USART2]
+2023-10-26 00:18:51,975 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 288267776 Bytes (888143872)
+2023-10-26 00:18:53,127 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 317629952 Bytes (888143872)
+2023-10-26 00:18:55,123 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 416196088 Bytes (888143872)
+2023-10-26 00:18:55,320 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-10-26 00:18:55,320 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2023-10-26 00:18:55,320 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-10-26 00:18:55,320 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-10-26 00:18:55,320 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-10-26 00:18:55,320 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-10-26 00:18:55,321 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.11.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.2.202309101412\\db\
+2023-10-26 00:18:55,423 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\MXTmpFiles\license.tmp_save
+2023-10-26 00:18:55,507 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\MXTmpFiles\license.tmp
+2023-10-26 00:18:55,525 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\MXTmpFiles\gpio.tmp_save
+2023-10-26 00:18:55,605 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\MXTmpFiles\gpio.tmp
+2023-10-26 00:18:55,673 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Src\stm32f4xx_it.c_save
+2023-10-26 00:18:55,781 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Src\stm32f4xx_it.c
+2023-10-26 00:18:55,792 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Inc\stm32f4xx_it.h_save
+2023-10-26 00:18:55,866 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Inc\stm32f4xx_it.h
+2023-10-26 00:18:55,890 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Src\stm32f4xx_hal_msp.c_save
+2023-10-26 00:18:55,979 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Src\stm32f4xx_hal_msp.c
+2023-10-26 00:18:55,985 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\MXTmpFiles\system.tmp_save
+2023-10-26 00:18:56,040 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\MXTmpFiles\system.tmp
+2023-10-26 00:18:56,066 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-10-26 00:18:56,154 [INFO] CodeEngine:335 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Inc\stm32f4xx_hal_conf.h
+2023-10-26 00:18:56,193 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Inc\main.h_save
+2023-10-26 00:18:56,263 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Inc\main.h
+2023-10-26 00:18:56,277 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Src\main.c_save
+2023-10-26 00:18:56,381 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Src\main.c
+2023-10-26 00:18:57,084 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 268mS.
+2023-10-26 00:18:57,087 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-10-26 00:18:57,244 [INFO] ConfigFileManager:1457 - The Die is : DIE413
+2023-10-26 00:18:58,627 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1540mS.
+2023-10-26 00:18:58,629 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-10-26 00:18:58,632 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-10-26 00:22:01,479 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,2,27,478x103,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-26 00:22:34,218 [INFO] Gpio:273 - dependency for GPIO [ADC1, SYS, USART2]
+2023-10-26 00:22:34,250 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-26 00:22:51,035 [INFO] Gpio:273 - dependency for GPIO [ADC1, SYS, USART2]
+2023-10-26 00:22:51,062 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-26 00:22:55,356 [INFO] Gpio:273 - dependency for GPIO [ADC1, SYS, USART2]
+2023-10-26 00:22:55,385 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-26 00:23:02,559 [INFO] Gpio:273 - dependency for GPIO [ADC1, SYS, USART2]
+2023-10-26 00:23:14,729 [INFO] Gpio:273 - dependency for GPIO [ADC1, SYS, USART2]
+2023-10-26 00:23:14,772 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-26 00:23:17,088 [INFO] Gpio:273 - dependency for GPIO [ADC1, SYS, USART2]
+2023-10-26 00:23:17,766 [INFO] Gpio:273 - dependency for GPIO [ADC1, SYS, USART2]
+2023-10-26 00:23:26,074 [INFO] Gpio:273 - dependency for GPIO [ADC1, SYS, USART2]
+2023-10-26 00:23:26,104 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-26 00:23:27,598 [INFO] Gpio:273 - dependency for GPIO [ADC1, SYS, USART2]
+2023-10-26 00:23:27,627 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-26 00:24:45,431 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 362957064 Bytes (849346560)
+2023-10-26 00:25:33,020 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 551755232 Bytes (849346560)
+2023-10-26 00:25:34,896 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 581115328 Bytes (849346560)
+2023-10-26 00:25:35,458 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 626726336 Bytes (849346560)
+2023-10-26 00:25:35,704 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-10-26 00:25:35,704 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2023-10-26 00:25:35,704 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-10-26 00:25:35,704 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-10-26 00:25:35,704 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-10-26 00:25:35,705 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-10-26 00:25:35,706 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.11.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.2.202309101412\\db\
+2023-10-26 00:25:35,839 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\MXTmpFiles\license.tmp_save
+2023-10-26 00:25:35,917 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\MXTmpFiles\license.tmp
+2023-10-26 00:25:35,937 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\MXTmpFiles\gpio.tmp_save
+2023-10-26 00:25:36,026 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\MXTmpFiles\gpio.tmp
+2023-10-26 00:25:36,096 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Src\stm32f4xx_it.c_save
+2023-10-26 00:25:36,195 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Src\stm32f4xx_it.c
+2023-10-26 00:25:36,203 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Inc\stm32f4xx_it.h_save
+2023-10-26 00:25:36,275 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Inc\stm32f4xx_it.h
+2023-10-26 00:25:36,301 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Src\stm32f4xx_hal_msp.c_save
+2023-10-26 00:25:36,378 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Src\stm32f4xx_hal_msp.c
+2023-10-26 00:25:36,383 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\MXTmpFiles\system.tmp_save
+2023-10-26 00:25:36,444 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\MXTmpFiles\system.tmp
+2023-10-26 00:25:36,467 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-10-26 00:25:36,559 [INFO] CodeEngine:335 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Inc\stm32f4xx_hal_conf.h
+2023-10-26 00:25:36,603 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Inc\main.h_save
+2023-10-26 00:25:36,675 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Inc\main.h
+2023-10-26 00:25:36,690 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Src\main.c_save
+2023-10-26 00:25:36,802 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_RTA_UART_001\Core\Src\main.c
+2023-10-26 00:25:37,305 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 252mS.
+2023-10-26 00:25:37,309 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-10-26 00:25:37,591 [INFO] ConfigFileManager:1457 - The Die is : DIE413
+2023-10-26 00:25:39,020 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1711mS.
+2023-10-26 00:25:39,022 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-10-26 00:25:39,025 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.

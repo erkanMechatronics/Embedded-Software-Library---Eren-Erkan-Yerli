@@ -1,0 +1,17 @@
+22:50:00 **** Incremental Build of configuration Debug for project MPU6050_DRIVER ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F407xx -c -I../Core/Inc -I../Core/Src -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "MPU6050_DRIVER.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MPU6050_DRIVER\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="MPU6050_DRIVER.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: MPU6050_DRIVER.elf
+ 
+arm-none-eabi-size   MPU6050_DRIVER.elf 
+arm-none-eabi-objdump -h -S  MPU6050_DRIVER.elf  > "MPU6050_DRIVER.list"
+   text	   data	    bss	    dec	    hex	filename
+  12052	     20	   1816	  13888	   3640	MPU6050_DRIVER.elf
+Finished building: default.size.stdout
+ 
+Finished building: MPU6050_DRIVER.list
+ 
+
+22:50:01 Build Finished. 0 errors, 0 warnings. (took 1s.108ms)
+

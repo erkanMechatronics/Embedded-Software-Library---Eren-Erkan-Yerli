@@ -1,0 +1,10 @@
+00:14:14 **** Incremental Build of configuration Debug for project HAL_DAC_003 ****
+make -j12 all 
+arm-none-eabi-size   HAL_DAC_003.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6548	     20	   1596	   8164	   1fe4	HAL_DAC_003.elf
+Finished building: default.size.stdout
+ 
+
+00:14:15 Build Finished. 0 errors, 0 warnings. (took 375ms)
+

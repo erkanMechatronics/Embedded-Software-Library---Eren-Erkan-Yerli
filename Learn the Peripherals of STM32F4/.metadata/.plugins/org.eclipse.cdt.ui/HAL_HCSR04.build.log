@@ -1,0 +1,10 @@
+20:06:10 **** Incremental Build of configuration Debug for project HAL_HCSR04 ****
+make -j12 all 
+arm-none-eabi-size   HAL_HCSR04.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10636	     20	   1652	  12308	   3014	HAL_HCSR04.elf
+Finished building: default.size.stdout
+ 
+
+20:06:10 Build Finished. 0 errors, 0 warnings. (took 324ms)
+

@@ -1,0 +1,10 @@
+22:00:35 **** Incremental Build of configuration Debug for project HAL_FREERTOS_001 ****
+make -j12 all 
+arm-none-eabi-size   HAL_FREERTOS_001.elf 
+   text	   data	    bss	    dec	    hex	filename
+  14988	     24	  18016	  33028	   8104	HAL_FREERTOS_001.elf
+Finished building: default.size.stdout
+ 
+
+22:00:35 Build Finished. 0 errors, 0 warnings. (took 371ms)
+

@@ -1,0 +1,10 @@
+23:44:33 **** Build of configuration Debug for project CANBUS_TRANSMIT_TEST2 ****
+make -j12 all 
+arm-none-eabi-size  CANBUS_TRANSMIT_TEST2.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10132	     12	   1724	  11868	   2e5c	CANBUS_TRANSMIT_TEST2.elf
+Finished building: default.size.stdout
+ 
+
+23:44:34 Build Finished. 0 errors, 0 warnings. (took 560ms)
+

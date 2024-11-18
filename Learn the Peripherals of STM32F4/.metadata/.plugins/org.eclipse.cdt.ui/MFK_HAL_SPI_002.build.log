@@ -1,0 +1,10 @@
+16:48:38 **** Incremental Build of configuration Debug for project MFK_HAL_SPI_002 ****
+make -j12 all 
+arm-none-eabi-size   MFK_HAL_SPI_002.elf 
+   text	   data	    bss	    dec	    hex	filename
+  26668	     44	  11580	  38292	   9594	MFK_HAL_SPI_002.elf
+Finished building: default.size.stdout
+ 
+
+16:48:38 Build Finished. 0 errors, 0 warnings. (took 391ms)
+

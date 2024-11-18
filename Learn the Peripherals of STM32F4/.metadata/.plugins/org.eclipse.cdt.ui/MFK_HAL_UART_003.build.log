@@ -1,0 +1,10 @@
+21:19:55 **** Incremental Build of configuration Debug for project MFK_HAL_UART_003 ****
+make -j12 all 
+arm-none-eabi-size   MFK_HAL_UART_003.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8336	     20	   1692	  10048	   2740	MFK_HAL_UART_003.elf
+Finished building: default.size.stdout
+ 
+
+21:19:55 Build Finished. 0 errors, 0 warnings. (took 278ms)
+

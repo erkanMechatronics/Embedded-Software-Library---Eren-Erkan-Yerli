@@ -1,0 +1,3 @@
+../Core/Src/ws2812.c:14:6:setLED	24	static
+../Core/Src/ws2812.c:22:6:ws2812_write	56	static
+../Core/Src/ws2812.c:40:6:ws2812_send	24	static

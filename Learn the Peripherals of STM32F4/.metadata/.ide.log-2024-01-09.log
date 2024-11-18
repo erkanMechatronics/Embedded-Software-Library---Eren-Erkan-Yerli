@@ -1,0 +1,156 @@
+2024-01-10 00:07:59,544 [INFO] Gpio:273 - dependency for GPIO [RCC, SYS, USART2]
+2024-01-10 00:08:06,262 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 935155408 Bytes (1073741824)
+2024-01-10 00:08:07,176 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 677768792 Bytes (1073741824)
+2024-01-10 00:08:10,202 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 806532496 Bytes (1073741824)
+2024-01-10 00:08:12,011 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2024-01-10 00:08:12,011 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-01-10 00:08:12,011 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-01-10 00:08:12,011 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-01-10 00:08:12,011 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-01-10 00:08:12,012 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-01-10 00:08:12,015 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.11.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.2.202309101412\\db\
+2024-01-10 00:08:12,195 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\license.tmp_save
+2024-01-10 00:08:12,311 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\license.tmp
+2024-01-10 00:08:12,338 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\gpio.tmp_save
+2024-01-10 00:08:12,449 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\gpio.tmp
+2024-01-10 00:08:12,551 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-01-10 00:08:12,563 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_inc.tmp_save
+2024-01-10 00:08:12,653 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_inc.tmp
+2024-01-10 00:08:12,658 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_vars.tmp_save
+2024-01-10 00:08:12,724 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_vars.tmp
+2024-01-10 00:08:12,729 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_pfp.tmp_save
+2024-01-10 00:08:12,793 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_pfp.tmp
+2024-01-10 00:08:12,800 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-01-10 00:08:12,880 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_obj_creat.tmp
+2024-01-10 00:08:12,885 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-01-10 00:08:12,949 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_kernelStart.tmp
+2024-01-10 00:08:12,954 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_default_thread.tmp_save
+2024-01-10 00:08:13,027 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_default_thread.tmp
+2024-01-10 00:08:13,033 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_threads.tmp_save
+2024-01-10 00:08:13,093 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_threads.tmp
+2024-01-10 00:08:13,106 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-01-10 00:08:13,116 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_inc.tmp_save
+2024-01-10 00:08:13,196 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_inc.tmp
+2024-01-10 00:08:13,204 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_vars.tmp_save
+2024-01-10 00:08:13,264 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_vars.tmp
+2024-01-10 00:08:13,273 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_pfp.tmp_save
+2024-01-10 00:08:13,330 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_pfp.tmp
+2024-01-10 00:08:13,345 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-01-10 00:08:13,439 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_obj_creat.tmp
+2024-01-10 00:08:13,445 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-01-10 00:08:13,510 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_kernelStart.tmp
+2024-01-10 00:08:13,518 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_default_thread.tmp_save
+2024-01-10 00:08:13,574 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_default_thread.tmp
+2024-01-10 00:08:13,582 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_threads.tmp_save
+2024-01-10 00:08:13,646 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_threads.tmp
+2024-01-10 00:08:13,665 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Inc\FreeRTOSConfig.h_save
+2024-01-10 00:08:13,737 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Inc\FreeRTOSConfig.h
+2024-01-10 00:08:13,755 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Src\freertos.c_save
+2024-01-10 00:08:13,832 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Src\freertos.c
+2024-01-10 00:08:13,857 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Src\stm32f4xx_it.c_save
+2024-01-10 00:08:14,011 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Src\stm32f4xx_it.c
+2024-01-10 00:08:14,021 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Inc\stm32f4xx_it.h_save
+2024-01-10 00:08:14,098 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Inc\stm32f4xx_it.h
+2024-01-10 00:08:14,130 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Src\stm32f4xx_hal_msp.c_save
+2024-01-10 00:08:14,241 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Src\stm32f4xx_hal_msp.c
+2024-01-10 00:08:14,246 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\system.tmp_save
+2024-01-10 00:08:14,306 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\system.tmp
+2024-01-10 00:08:14,324 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Src\stm32f4xx_hal_timebase_tim.c_save
+2024-01-10 00:08:14,393 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Src\stm32f4xx_hal_timebase_tim.c
+2024-01-10 00:08:14,415 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-01-10 00:08:14,507 [INFO] CodeEngine:335 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Inc\stm32f4xx_hal_conf.h
+2024-01-10 00:08:14,568 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Inc\main.h_save
+2024-01-10 00:08:14,674 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Inc\main.h
+2024-01-10 00:08:14,695 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Src\main.c_save
+2024-01-10 00:08:14,859 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Src\main.c
+2024-01-10 00:08:15,660 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 421mS.
+2024-01-10 00:08:15,666 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2024-01-10 00:08:15,989 [INFO] ConfigFileManager:1457 - The Die is : DIE413
+2024-01-10 00:08:17,558 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1892mS.
+2024-01-10 00:08:17,559 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2024-01-10 00:08:17,568 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2024-01-10 00:30:14,350 [INFO] Gpio:273 - dependency for GPIO [RCC, SYS, USART2]
+2024-01-10 00:30:14,549 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2024-01-10 00:30:17,623 [INFO] TasksAndQueuesTab:757 - Dynamic
+2024-01-10 00:30:17,624 [WARN] TasksAndQueuesTab:763 - 128 128
+2024-01-10 00:30:17,624 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2024-01-10 00:30:17,624 [INFO] TasksAndQueuesTab:757 - Dynamic
+2024-01-10 00:30:17,624 [WARN] TasksAndQueuesTab:763 - 128 128
+2024-01-10 00:30:17,624 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2024-01-10 00:30:17,624 [INFO] TasksAndQueuesTab:757 - Dynamic
+2024-01-10 00:30:17,624 [WARN] TasksAndQueuesTab:763 - 128 128
+2024-01-10 00:30:17,624 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2024-01-10 00:30:24,695 [INFO] EditThreadDialog:704 - RAM SIZE (in KB): 128
+2024-01-10 00:30:24,698 [INFO] EditThreadDialog:706 - RAM SIZE (in words): 32768
+2024-01-10 00:30:32,053 [INFO] EditThreadDialog:704 - RAM SIZE (in KB): 128
+2024-01-10 00:30:32,053 [INFO] EditThreadDialog:706 - RAM SIZE (in words): 32768
+2024-01-10 00:30:41,583 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 678394536 Bytes (1073741824)
+2024-01-10 00:30:42,270 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 649557992 Bytes (1073741824)
+2024-01-10 00:30:43,409 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 784824296 Bytes (1073741824)
+2024-01-10 00:30:46,524 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2024-01-10 00:30:46,524 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-01-10 00:30:46,524 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-01-10 00:30:46,524 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-01-10 00:30:46,524 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-01-10 00:30:46,524 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-01-10 00:30:46,529 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.11.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.2.202309101412\\db\
+2024-01-10 00:30:46,748 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\license.tmp_save
+2024-01-10 00:30:47,035 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\license.tmp
+2024-01-10 00:30:47,076 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\gpio.tmp_save
+2024-01-10 00:30:47,219 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\gpio.tmp
+2024-01-10 00:30:47,362 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-01-10 00:30:47,374 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_inc.tmp_save
+2024-01-10 00:30:47,467 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_inc.tmp
+2024-01-10 00:30:47,473 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_vars.tmp_save
+2024-01-10 00:30:47,550 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_vars.tmp
+2024-01-10 00:30:47,556 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_pfp.tmp_save
+2024-01-10 00:30:47,632 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_pfp.tmp
+2024-01-10 00:30:47,641 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-01-10 00:30:47,724 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_obj_creat.tmp
+2024-01-10 00:30:47,729 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-01-10 00:30:47,805 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_kernelStart.tmp
+2024-01-10 00:30:47,811 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_default_thread.tmp_save
+2024-01-10 00:30:47,900 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_default_thread.tmp
+2024-01-10 00:30:47,906 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_threads.tmp_save
+2024-01-10 00:30:47,982 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_threads.tmp
+2024-01-10 00:30:47,992 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-01-10 00:30:48,002 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_inc.tmp_save
+2024-01-10 00:30:48,081 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_inc.tmp
+2024-01-10 00:30:48,088 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_vars.tmp_save
+2024-01-10 00:30:48,156 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_vars.tmp
+2024-01-10 00:30:48,165 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_pfp.tmp_save
+2024-01-10 00:30:48,235 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_pfp.tmp
+2024-01-10 00:30:48,251 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-01-10 00:30:48,347 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_obj_creat.tmp
+2024-01-10 00:30:48,358 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-01-10 00:30:48,498 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_kernelStart.tmp
+2024-01-10 00:30:48,509 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_default_thread.tmp_save
+2024-01-10 00:30:48,636 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_default_thread.tmp
+2024-01-10 00:30:48,648 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_threads.tmp_save
+2024-01-10 00:30:48,755 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\rtos_threads.tmp
+2024-01-10 00:30:48,820 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Inc\FreeRTOSConfig.h_save
+2024-01-10 00:30:49,020 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Inc\FreeRTOSConfig.h
+2024-01-10 00:30:49,039 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Src\freertos.c_save
+2024-01-10 00:30:49,144 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Src\freertos.c
+2024-01-10 00:30:49,180 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Src\stm32f4xx_it.c_save
+2024-01-10 00:30:49,451 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Src\stm32f4xx_it.c
+2024-01-10 00:30:49,462 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Inc\stm32f4xx_it.h_save
+2024-01-10 00:30:49,543 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Inc\stm32f4xx_it.h
+2024-01-10 00:30:49,582 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Src\stm32f4xx_hal_msp.c_save
+2024-01-10 00:30:49,740 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Src\stm32f4xx_hal_msp.c
+2024-01-10 00:30:49,747 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\system.tmp_save
+2024-01-10 00:30:49,812 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\MXTmpFiles\system.tmp
+2024-01-10 00:30:49,831 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Src\stm32f4xx_hal_timebase_tim.c_save
+2024-01-10 00:30:49,909 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Src\stm32f4xx_hal_timebase_tim.c
+2024-01-10 00:30:49,943 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-01-10 00:30:50,046 [INFO] CodeEngine:335 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Inc\stm32f4xx_hal_conf.h
+2024-01-10 00:30:50,122 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Inc\main.h_save
+2024-01-10 00:30:50,219 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Inc\main.h
+2024-01-10 00:30:50,238 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Src\main.c_save
+2024-01-10 00:30:50,419 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_FREERTOS_003\Core\Src\main.c
+2024-01-10 00:30:52,153 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 1122mS.
+2024-01-10 00:30:52,174 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2024-01-10 00:30:52,507 [INFO] ConfigFileManager:1457 - The Die is : DIE413
+2024-01-10 00:30:56,029 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 3856mS.
+2024-01-10 00:30:56,032 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 2mS.
+2024-01-10 00:30:56,041 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.

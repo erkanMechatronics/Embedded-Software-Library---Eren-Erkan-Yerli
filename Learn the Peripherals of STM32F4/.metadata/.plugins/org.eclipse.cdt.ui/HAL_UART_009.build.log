@@ -1,0 +1,35 @@
+15:48:16 **** Incremental Build of configuration Debug for project HAL_UART_009 ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103x6 -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'main':
+../Core/Src/main.c:108:7: warning: implicit declaration of function 'strncmp' [-Wimplicit-function-declaration]
+  108 |    if(strncmp(rx_msg,"1",1) == 0)
+      |       ^~~~~~~
+../Core/Src/main.c:108:26: warning: 'strncmp' argument 3 type is 'int' where 'unsigned int' is expected in a call to built-in function declared without prototype [-Wbuiltin-declaration-mismatch]
+  108 |    if(strncmp(rx_msg,"1",1) == 0)
+      |                          ^
+<built-in>: note: built-in 'strncmp' declared here
+../Core/Src/main.c:112:31: warning: 'strncmp' argument 3 type is 'int' where 'unsigned int' is expected in a call to built-in function declared without prototype [-Wbuiltin-declaration-mismatch]
+  112 |    else if(strncmp(rx_msg,"0",1) == 0)
+      |                               ^
+<built-in>: note: built-in 'strncmp' declared here
+arm-none-eabi-gcc -o "HAL_UART_009.elf" @"objects.list"   -mcpu=cortex-m3 -T"C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_UART_009\STM32F103R6TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="HAL_UART_009.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: HAL_UART_009.elf
+ 
+arm-none-eabi-size   HAL_UART_009.elf 
+arm-none-eabi-objdump -h -S  HAL_UART_009.elf  > "HAL_UART_009.list"
+arm-none-eabi-objcopy  -O ihex  HAL_UART_009.elf  "HAL_UART_009.hex"
+   text	   data	    bss	    dec	    hex	filename
+   5892	     20	   1644	   7556	   1d84	HAL_UART_009.elf
+arm-none-eabi-objcopy  -O binary  HAL_UART_009.elf  "HAL_UART_009.bin"
+Finished building: default.size.stdout
+ 
+Finished building: HAL_UART_009.hex
+Finished building: HAL_UART_009.bin
+ 
+Finished building: HAL_UART_009.list
+ 
+ 
+
+15:48:17 Build Finished. 0 errors, 3 warnings. (took 821ms)
+

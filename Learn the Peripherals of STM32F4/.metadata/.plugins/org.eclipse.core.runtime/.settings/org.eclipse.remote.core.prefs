@@ -1,0 +1,7 @@
+connectionTypeId=org.eclipse.remote.JSch
+connections/org.eclipse.remote.serial.core.connectionType/Test_F407_001/serial.baudRate=11
+connections/org.eclipse.remote.serial.core.connectionType/Test_F407_001/serial.byteSize=2
+connections/org.eclipse.remote.serial.core.connectionType/Test_F407_001/serial.parity=1
+connections/org.eclipse.remote.serial.core.connectionType/Test_F407_001/serial.portName=COM7
+connections/org.eclipse.remote.serial.core.connectionType/Test_F407_001/serial.stopBits=0
+eclipse.preferences.version=1

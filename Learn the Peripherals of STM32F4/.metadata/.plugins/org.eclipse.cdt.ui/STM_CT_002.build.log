@@ -1,0 +1,10 @@
+13:08:25 **** Incremental Build of configuration Debug for project STM_CT_002 ****
+make -j12 all 
+arm-none-eabi-size   STM_CT_002.elf 
+   text	   data	    bss	    dec	    hex	filename
+  31924	    152	   3600	  35676	   8b5c	STM_CT_002.elf
+Finished building: default.size.stdout
+ 
+
+13:08:25 Build Finished. 0 errors, 0 warnings. (took 444ms)
+

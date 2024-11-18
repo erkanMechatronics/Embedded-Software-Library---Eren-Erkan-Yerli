@@ -1,0 +1,10 @@
+22:28:34 **** Incremental Build of configuration Debug for project MFK_HAL_TIM_004 ****
+make -j12 all 
+arm-none-eabi-size   MFK_HAL_TIM_004.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7644	     20	   1644	   9308	   245c	MFK_HAL_TIM_004.elf
+Finished building: default.size.stdout
+ 
+
+22:28:34 Build Finished. 0 errors, 0 warnings. (took 325ms)
+

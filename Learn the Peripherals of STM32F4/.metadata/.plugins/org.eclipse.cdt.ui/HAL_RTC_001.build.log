@@ -1,0 +1,15 @@
+09:21:23 **** Incremental Build of configuration Debug for project HAL_RTC_001 ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F407xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'MX_RTC_Init':
+../Core/Src/main.c:171:9: error: unknown type name 'RCC_APB1'
+  171 |         RCC_APB1
+      |         ^~~~~~~~
+../Core/Src/main.c:176:19: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'sTime'
+  176 |   RTC_TimeTypeDef sTime = {0};
+      |                   ^~~~~
+make: *** [Core/Src/subdir.mk:34: Core/Src/main.o] Error 1
+"make -j12 all" terminated with exit code 2. Build might be incomplete.
+
+09:21:26 Build Failed. 3 errors, 0 warnings. (took 2s.444ms)
+

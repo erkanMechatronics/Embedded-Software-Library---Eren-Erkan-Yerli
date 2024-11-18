@@ -1,0 +1,10 @@
+15:02:15 **** Incremental Build of configuration Debug for project First_Project ****
+make -j12 all 
+arm-none-eabi-size   First_Project.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5956	     20	   1572	   7548	   1d7c	First_Project.elf
+Finished building: default.size.stdout
+ 
+
+15:02:15 Build Finished. 0 errors, 0 warnings. (took 311ms)
+

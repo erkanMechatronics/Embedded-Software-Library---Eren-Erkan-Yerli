@@ -1,0 +1,10 @@
+20:40:24 **** Incremental Build of configuration Debug for project stm32_ad5621_proteus ****
+make -j12 all 
+arm-none-eabi-size  stm32_ad5621_proteus.elf 
+   text	   data	    bss	    dec	    hex	filename
+  14412	     16	   2384	  16812	   41ac	stm32_ad5621_proteus.elf
+Finished building: default.size.stdout
+ 
+
+20:40:24 Build Finished. 0 errors, 0 warnings. (took 332ms)
+

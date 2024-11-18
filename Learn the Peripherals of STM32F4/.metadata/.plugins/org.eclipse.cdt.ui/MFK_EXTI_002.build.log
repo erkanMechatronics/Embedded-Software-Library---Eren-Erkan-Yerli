@@ -1,0 +1,10 @@
+22:34:24 **** Incremental Build of configuration Debug for project MFK_EXTI_002 ****
+make -j12 all 
+arm-none-eabi-size   MFK_EXTI_002.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6408	     20	   1580	   8008	   1f48	MFK_EXTI_002.elf
+Finished building: default.size.stdout
+ 
+
+22:34:24 Build Finished. 0 errors, 0 warnings. (took 313ms)
+

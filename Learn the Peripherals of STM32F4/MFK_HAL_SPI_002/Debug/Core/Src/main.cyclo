@@ -1,0 +1,7 @@
+../Core/Src/main.c:75:5:buffSize	2
+../Core/Src/main.c:84:6:bufferClear	2
+../Core/Src/main.c:100:5:main	1
+../Core/Src/main.c:159:6:SystemClock_Config	3
+../Core/Src/main.c:205:13:MX_SPI1_Init	2
+../Core/Src/main.c:243:13:MX_GPIO_Init	1
+../Core/Src/main.c:276:6:Error_Handler	1

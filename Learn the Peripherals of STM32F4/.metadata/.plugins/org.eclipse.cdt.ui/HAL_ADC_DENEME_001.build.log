@@ -1,0 +1,10 @@
+11:22:22 **** Incremental Build of configuration Debug for project HAL_ADC_DENEME_001 ****
+make -j12 all 
+arm-none-eabi-size   HAL_ADC_DENEME_001.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8220	     20	   1644	   9884	   269c	HAL_ADC_DENEME_001.elf
+Finished building: default.size.stdout
+ 
+
+11:22:22 Build Finished. 0 errors, 0 warnings. (took 315ms)
+

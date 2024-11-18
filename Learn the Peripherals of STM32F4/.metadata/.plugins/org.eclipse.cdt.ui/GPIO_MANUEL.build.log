@@ -1,0 +1,10 @@
+00:34:40 **** Incremental Build of configuration Debug for project GPIO_MANUEL ****
+make -j12 all 
+arm-none-eabi-size   GPIO_MANUEL.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5772	     20	   1572	   7364	   1cc4	GPIO_MANUEL.elf
+Finished building: default.size.stdout
+ 
+
+00:34:41 Build Finished. 0 errors, 0 warnings. (took 637ms)
+

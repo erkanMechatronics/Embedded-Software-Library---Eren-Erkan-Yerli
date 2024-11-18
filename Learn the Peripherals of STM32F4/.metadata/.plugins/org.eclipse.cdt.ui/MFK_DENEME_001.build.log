@@ -1,0 +1,10 @@
+12:12:02 **** Incremental Build of configuration Debug for project MFK_DENEME_001 ****
+make -j12 all 
+arm-none-eabi-size   MFK_DENEME_001.elf 
+   text	   data	    bss	    dec	    hex	filename
+  31884	    132	   3908	  35924	   8c54	MFK_DENEME_001.elf
+Finished building: default.size.stdout
+ 
+
+12:12:02 Build Finished. 0 errors, 0 warnings. (took 379ms)
+

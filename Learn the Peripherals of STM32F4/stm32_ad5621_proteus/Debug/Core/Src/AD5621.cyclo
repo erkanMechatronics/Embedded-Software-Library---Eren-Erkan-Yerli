@@ -1,0 +1,4 @@
+../Core/Src/AD5621.c:12:24:checkCommunication_AD5621	2
+../Core/Src/AD5621.c:30:24:SPI_Write_AD5621	2
+../Core/Src/AD5621.c:54:6:SPI_CS_LOW	1
+../Core/Src/AD5621.c:60:6:SPI_CS_HIGH	1

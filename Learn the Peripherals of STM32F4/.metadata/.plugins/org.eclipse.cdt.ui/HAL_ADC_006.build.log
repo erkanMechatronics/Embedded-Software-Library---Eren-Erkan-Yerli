@@ -1,0 +1,36 @@
+15:08:31 **** Incremental Build of configuration Debug for project HAL_ADC_006 ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103x6 -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'main':
+../Core/Src/main.c:106:30: warning: pointer targets in passing argument 2 of 'HAL_UART_Transmit' differ in signedness [-Wpointer-sign]
+  106 |   HAL_UART_Transmit(&huart1, tx_data, sizeof(tx_data),HAL_MAX_DELAY);
+      |                              ^~~~~~~
+      |                              |
+      |                              char *
+In file included from ../Core/Inc/stm32f1xx_hal_conf.h:338,
+                 from ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h:29,
+                 from ../Core/Inc/main.h:30,
+                 from ../Core/Src/main.c:20:
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h:749:79: note: expected 'const uint8_t *' {aka 'const unsigned char *'} but argument is of type 'char *'
+  749 | HAL_StatusTypeDef HAL_UART_Transmit(UART_HandleTypeDef *huart, const uint8_t *pData, uint16_t Size, uint32_t Timeout);
+      |                                                                ~~~~~~~~~~~~~~~^~~~~
+arm-none-eabi-gcc -o "HAL_ADC_006.elf" @"objects.list"   -mcpu=cortex-m3 -T"C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_ADC_006\STM32F103R6TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="HAL_ADC_006.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: HAL_ADC_006.elf
+ 
+arm-none-eabi-size   HAL_ADC_006.elf 
+arm-none-eabi-objdump -h -S  HAL_ADC_006.elf  > "HAL_ADC_006.list"
+arm-none-eabi-objcopy  -O ihex  HAL_ADC_006.elf  "HAL_ADC_006.hex"
+   text	   data	    bss	    dec	    hex	filename
+   7392	     72	   1688	   9152	   23c0	HAL_ADC_006.elf
+arm-none-eabi-objcopy  -O binary  HAL_ADC_006.elf  "HAL_ADC_006.bin"
+Finished building: default.size.stdout
+ 
+Finished building: HAL_ADC_006.hex
+Finished building: HAL_ADC_006.bin
+Finished building: HAL_ADC_006.list
+ 
+ 
+ 
+
+15:08:32 Build Finished. 0 errors, 1 warnings. (took 807ms)
+

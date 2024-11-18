@@ -1,0 +1,10 @@
+22:15:54 **** Incremental Build of configuration Debug for project TUT_CAN_F407 ****
+make -j12 all 
+arm-none-eabi-size  TUT_CAN_F407.elf 
+   text	   data	    bss	    dec	    hex	filename
+  19440	     12	   1816	  21268	   5314	TUT_CAN_F407.elf
+Finished building: default.size.stdout
+ 
+
+22:15:55 Build Finished. 0 errors, 0 warnings. (took 336ms)
+

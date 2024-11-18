@@ -1,0 +1,5 @@
+../Core/Src/MPU6050_driver.c:14:17:MPU6050_read_id	32	static
+../Core/Src/MPU6050_driver.c:30:17:MPU6050_test_sensor	16	static
+../Core/Src/MPU6050_driver.c:45:17:MPU6050_read_data	32	static
+../Core/Src/MPU6050_driver.c:79:17:MPU6050_initialize	112	static
+../Core/Src/MPU6050_driver.c:104:17:MPU6050_set_sleep_mode	32	static

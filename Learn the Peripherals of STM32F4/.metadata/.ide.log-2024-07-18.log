@@ -1,0 +1,776 @@
+2024-07-19 00:24:50,448 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2024-07-19 00:25:02,429 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 799985456 Bytes (1073741824)
+2024-07-19 00:25:03,002 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 886455728 Bytes (1073741824)
+2024-07-19 00:25:03,186 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2024-07-19 00:25:03,186 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-07-19 00:25:03,186 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-07-19 00:25:03,186 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-07-19 00:25:03,186 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-07-19 00:25:03,188 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.11.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.11.1.202404110753\\db\
+2024-07-19 00:25:03,305 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\license.tmp_save
+2024-07-19 00:25:03,431 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\license.tmp
+2024-07-19 00:25:03,462 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\gpio.tmp_save
+2024-07-19 00:25:03,548 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\gpio.tmp
+2024-07-19 00:25:03,617 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-19 00:25:03,629 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp_save
+2024-07-19 00:25:03,712 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp
+2024-07-19 00:25:03,719 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp_save
+2024-07-19 00:25:03,797 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp
+2024-07-19 00:25:03,802 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp_save
+2024-07-19 00:25:03,866 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp
+2024-07-19 00:25:03,872 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-07-19 00:25:03,952 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp
+2024-07-19 00:25:03,957 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-07-19 00:25:04,011 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp
+2024-07-19 00:25:04,016 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp_save
+2024-07-19 00:25:04,083 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp
+2024-07-19 00:25:04,088 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp_save
+2024-07-19 00:25:04,155 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp
+2024-07-19 00:25:04,165 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-19 00:25:04,179 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp_save
+2024-07-19 00:25:04,247 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp
+2024-07-19 00:25:04,256 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp_save
+2024-07-19 00:25:04,329 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp
+2024-07-19 00:25:04,337 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp_save
+2024-07-19 00:25:04,403 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp
+2024-07-19 00:25:04,415 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-07-19 00:25:04,474 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp
+2024-07-19 00:25:04,481 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-07-19 00:25:04,533 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp
+2024-07-19 00:25:04,540 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp_save
+2024-07-19 00:25:04,595 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp
+2024-07-19 00:25:04,602 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp_save
+2024-07-19 00:25:04,656 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp
+2024-07-19 00:25:04,677 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\FreeRTOSConfig.h_save
+2024-07-19 00:25:04,744 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\FreeRTOSConfig.h
+2024-07-19 00:25:04,760 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\freertos.c_save
+2024-07-19 00:25:04,841 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\freertos.c
+2024-07-19 00:25:04,864 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_it.c_save
+2024-07-19 00:25:05,003 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_it.c
+2024-07-19 00:25:05,022 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_it.h_save
+2024-07-19 00:25:05,086 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_it.h
+2024-07-19 00:25:05,114 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_msp.c_save
+2024-07-19 00:25:05,209 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_msp.c
+2024-07-19 00:25:05,215 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\system.tmp_save
+2024-07-19 00:25:05,280 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\system.tmp
+2024-07-19 00:25:05,295 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_timebase_tim.c_save
+2024-07-19 00:25:05,374 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_timebase_tim.c
+2024-07-19 00:25:05,396 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-07-19 00:25:05,479 [INFO] CodeEngine:335 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_hal_conf.h
+2024-07-19 00:25:05,553 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\main.h_save
+2024-07-19 00:25:05,648 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\main.h
+2024-07-19 00:25:05,669 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\main.c_save
+2024-07-19 00:25:05,849 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\main.c
+2024-07-19 00:25:06,510 [INFO] ProjectBuilder:3163 - Time for Copy HAL[1] : 496mS.
+2024-07-19 00:25:06,515 [INFO] ProjectBuilder:4736 - Project Generator version: 4.3.0-B58
+2024-07-19 00:25:06,599 [INFO] ConfigFileManager:1503 - The Die is : DIE413
+2024-07-19 00:25:07,725 [INFO] ProjectBuilder:5002 - Time for Generating toolchain IDE Files: 1210mS.
+2024-07-19 00:25:07,730 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 5mS.
+2024-07-19 00:25:07,740 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.
+2024-07-19 00:36:33,576 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 844657408 Bytes (1073741824)
+2024-07-19 00:36:33,760 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2024-07-19 00:36:33,760 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-07-19 00:36:33,760 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-07-19 00:36:33,760 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-07-19 00:36:33,761 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-07-19 00:36:33,763 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.11.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.11.1.202404110753\\db\
+2024-07-19 00:36:33,855 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\license.tmp_save
+2024-07-19 00:36:33,931 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\license.tmp
+2024-07-19 00:36:33,980 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\gpio.tmp_save
+2024-07-19 00:36:34,064 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\gpio.tmp
+2024-07-19 00:36:34,125 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-19 00:36:34,135 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp_save
+2024-07-19 00:36:34,203 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp
+2024-07-19 00:36:34,209 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp_save
+2024-07-19 00:36:34,270 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp
+2024-07-19 00:36:34,275 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp_save
+2024-07-19 00:36:34,328 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp
+2024-07-19 00:36:34,333 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-07-19 00:36:34,396 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp
+2024-07-19 00:36:34,400 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-07-19 00:36:34,457 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp
+2024-07-19 00:36:34,463 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp_save
+2024-07-19 00:36:34,515 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp
+2024-07-19 00:36:34,520 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp_save
+2024-07-19 00:36:34,580 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp
+2024-07-19 00:36:34,590 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-19 00:36:34,601 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp_save
+2024-07-19 00:36:34,673 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp
+2024-07-19 00:36:34,681 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp_save
+2024-07-19 00:36:34,740 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp
+2024-07-19 00:36:34,749 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp_save
+2024-07-19 00:36:34,804 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp
+2024-07-19 00:36:34,819 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-07-19 00:36:34,876 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp
+2024-07-19 00:36:34,884 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-07-19 00:36:34,939 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp
+2024-07-19 00:36:34,945 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp_save
+2024-07-19 00:36:35,000 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp
+2024-07-19 00:36:35,008 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp_save
+2024-07-19 00:36:35,062 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp
+2024-07-19 00:36:35,079 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\FreeRTOSConfig.h_save
+2024-07-19 00:36:35,149 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\FreeRTOSConfig.h
+2024-07-19 00:36:35,166 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\freertos.c_save
+2024-07-19 00:36:35,229 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\freertos.c
+2024-07-19 00:36:35,254 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_it.c_save
+2024-07-19 00:36:35,390 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_it.c
+2024-07-19 00:36:35,398 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_it.h_save
+2024-07-19 00:36:35,459 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_it.h
+2024-07-19 00:36:35,490 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_msp.c_save
+2024-07-19 00:36:35,582 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_msp.c
+2024-07-19 00:36:35,589 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\system.tmp_save
+2024-07-19 00:36:35,663 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\system.tmp
+2024-07-19 00:36:35,679 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_timebase_tim.c_save
+2024-07-19 00:36:35,744 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_timebase_tim.c
+2024-07-19 00:36:35,769 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-07-19 00:36:35,857 [INFO] CodeEngine:335 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_hal_conf.h
+2024-07-19 00:36:35,910 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\main.h_save
+2024-07-19 00:36:35,989 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\main.h
+2024-07-19 00:36:36,008 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\main.c_save
+2024-07-19 00:36:36,144 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\main.c
+2024-07-19 00:36:36,678 [INFO] ProjectBuilder:3163 - Time for Copy HAL[1] : 380mS.
+2024-07-19 00:36:36,681 [INFO] ProjectBuilder:4736 - Project Generator version: 4.3.0-B58
+2024-07-19 00:36:36,758 [INFO] ConfigFileManager:1503 - The Die is : DIE413
+2024-07-19 00:36:37,737 [INFO] ProjectBuilder:5002 - Time for Generating toolchain IDE Files: 1056mS.
+2024-07-19 00:36:37,738 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 1mS.
+2024-07-19 00:36:37,745 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.
+2024-07-19 00:38:09,152 [INFO] Gpio:277 - dependency for GPIO [RCC, SYS]
+2024-07-19 00:40:09,840 [INFO] Gpio:277 - dependency for GPIO [RCC, SYS]
+2024-07-19 00:40:11,133 [INFO] Gpio:277 - dependency for GPIO [RCC, SYS]
+2024-07-19 00:40:13,148 [INFO] Gpio:277 - dependency for GPIO [RCC, SYS]
+2024-07-19 00:40:28,728 [INFO] Gpio:277 - dependency for GPIO [RCC, SYS]
+2024-07-19 00:40:30,681 [INFO] Gpio:277 - dependency for GPIO [RCC, SYS]
+2024-07-19 00:40:34,243 [INFO] Gpio:277 - dependency for GPIO [RCC, SYS]
+2024-07-19 00:40:43,721 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 788281184 Bytes (1073741824)
+2024-07-19 00:40:44,260 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 838090592 Bytes (1073741824)
+2024-07-19 00:40:44,457 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2024-07-19 00:40:44,457 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-07-19 00:40:44,457 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-07-19 00:40:44,457 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-07-19 00:40:44,458 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-07-19 00:40:44,459 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.11.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.11.1.202404110753\\db\
+2024-07-19 00:40:44,541 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\license.tmp_save
+2024-07-19 00:40:44,622 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\license.tmp
+2024-07-19 00:40:44,656 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\gpio.tmp_save
+2024-07-19 00:40:44,772 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\gpio.tmp
+2024-07-19 00:40:44,825 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-19 00:40:44,835 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp_save
+2024-07-19 00:40:44,920 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp
+2024-07-19 00:40:44,926 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp_save
+2024-07-19 00:40:44,988 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp
+2024-07-19 00:40:44,993 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp_save
+2024-07-19 00:40:45,047 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp
+2024-07-19 00:40:45,053 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-07-19 00:40:45,113 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp
+2024-07-19 00:40:45,118 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-07-19 00:40:45,170 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp
+2024-07-19 00:40:45,174 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp_save
+2024-07-19 00:40:45,228 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp
+2024-07-19 00:40:45,234 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp_save
+2024-07-19 00:40:45,301 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp
+2024-07-19 00:40:45,309 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-19 00:40:45,320 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp_save
+2024-07-19 00:40:45,385 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp
+2024-07-19 00:40:45,392 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp_save
+2024-07-19 00:40:45,447 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp
+2024-07-19 00:40:45,455 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp_save
+2024-07-19 00:40:45,509 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp
+2024-07-19 00:40:45,523 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-07-19 00:40:45,580 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp
+2024-07-19 00:40:45,586 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-07-19 00:40:45,639 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp
+2024-07-19 00:40:45,646 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp_save
+2024-07-19 00:40:45,699 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp
+2024-07-19 00:40:45,706 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp_save
+2024-07-19 00:40:45,784 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp
+2024-07-19 00:40:45,802 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\FreeRTOSConfig.h_save
+2024-07-19 00:40:45,868 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\FreeRTOSConfig.h
+2024-07-19 00:40:45,884 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\freertos.c_save
+2024-07-19 00:40:45,946 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\freertos.c
+2024-07-19 00:40:45,969 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_it.c_save
+2024-07-19 00:40:46,042 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_it.c
+2024-07-19 00:40:46,056 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_it.h_save
+2024-07-19 00:40:46,123 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_it.h
+2024-07-19 00:40:46,146 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_msp.c_save
+2024-07-19 00:40:46,225 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_msp.c
+2024-07-19 00:40:46,230 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\system.tmp_save
+2024-07-19 00:40:46,285 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\system.tmp
+2024-07-19 00:40:46,299 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_timebase_tim.c_save
+2024-07-19 00:40:46,362 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_timebase_tim.c
+2024-07-19 00:40:46,386 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-07-19 00:40:46,473 [INFO] CodeEngine:335 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_hal_conf.h
+2024-07-19 00:40:46,527 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\main.h_save
+2024-07-19 00:40:46,589 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\main.h
+2024-07-19 00:40:46,603 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\main.c_save
+2024-07-19 00:40:46,726 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\main.c
+2024-07-19 00:40:47,250 [INFO] ProjectBuilder:3163 - Time for Copy HAL[1] : 361mS.
+2024-07-19 00:40:47,254 [INFO] ProjectBuilder:4736 - Project Generator version: 4.3.0-B58
+2024-07-19 00:40:47,335 [INFO] ConfigFileManager:1503 - The Die is : DIE413
+2024-07-19 00:40:48,357 [INFO] ProjectBuilder:5002 - Time for Generating toolchain IDE Files: 1103mS.
+2024-07-19 00:40:48,359 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 1mS.
+2024-07-19 00:40:48,368 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.
+2024-07-19 00:47:39,903 [INFO] Gpio:277 - dependency for GPIO [RCC, SYS]
+2024-07-19 00:47:39,976 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2024-07-19 00:47:42,155 [INFO] TasksAndQueuesTab:757 - Dynamic
+2024-07-19 00:47:42,156 [WARN] TasksAndQueuesTab:763 - 128 128
+2024-07-19 00:47:42,156 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2024-07-19 00:47:42,156 [INFO] TasksAndQueuesTab:757 - Dynamic
+2024-07-19 00:47:42,156 [WARN] TasksAndQueuesTab:763 - 128 128
+2024-07-19 00:47:42,156 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2024-07-19 00:47:42,156 [INFO] TasksAndQueuesTab:757 - Dynamic
+2024-07-19 00:47:42,156 [WARN] TasksAndQueuesTab:763 - 128 128
+2024-07-19 00:47:42,156 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2024-07-19 00:47:44,562 [INFO] EditThreadDialog:704 - RAM SIZE (in KB): 128
+2024-07-19 00:47:44,562 [INFO] EditThreadDialog:706 - RAM SIZE (in words): 32768
+2024-07-19 00:47:57,340 [INFO] TasksAndQueuesTab:757 - Dynamic
+2024-07-19 00:47:57,340 [WARN] TasksAndQueuesTab:763 - 128 128
+2024-07-19 00:47:57,340 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2024-07-19 00:47:57,340 [INFO] TasksAndQueuesTab:757 - Dynamic
+2024-07-19 00:47:57,340 [WARN] TasksAndQueuesTab:763 - 128 128
+2024-07-19 00:47:57,340 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2024-07-19 00:47:57,340 [INFO] TasksAndQueuesTab:757 - Dynamic
+2024-07-19 00:47:57,340 [WARN] TasksAndQueuesTab:763 - 128 128
+2024-07-19 00:47:57,340 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2024-07-19 00:47:58,646 [INFO] EditThreadDialog:704 - RAM SIZE (in KB): 128
+2024-07-19 00:47:58,646 [INFO] EditThreadDialog:706 - RAM SIZE (in words): 32768
+2024-07-19 00:48:04,847 [INFO] TasksAndQueuesTab:757 - Dynamic
+2024-07-19 00:48:04,847 [WARN] TasksAndQueuesTab:763 - 128 128
+2024-07-19 00:48:04,847 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2024-07-19 00:48:04,847 [INFO] TasksAndQueuesTab:757 - Dynamic
+2024-07-19 00:48:04,847 [WARN] TasksAndQueuesTab:763 - 128 128
+2024-07-19 00:48:04,847 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2024-07-19 00:48:04,847 [INFO] TasksAndQueuesTab:757 - Dynamic
+2024-07-19 00:48:04,848 [WARN] TasksAndQueuesTab:763 - 128 128
+2024-07-19 00:48:04,848 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2024-07-19 00:48:13,383 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 788422856 Bytes (1073741824)
+2024-07-19 00:48:13,940 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 834560200 Bytes (1073741824)
+2024-07-19 00:48:14,125 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2024-07-19 00:48:14,125 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-07-19 00:48:14,125 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-07-19 00:48:14,125 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-07-19 00:48:14,126 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-07-19 00:48:14,127 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.11.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.11.1.202404110753\\db\
+2024-07-19 00:48:14,203 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\license.tmp_save
+2024-07-19 00:48:14,303 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\license.tmp
+2024-07-19 00:48:14,327 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\gpio.tmp_save
+2024-07-19 00:48:14,405 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\gpio.tmp
+2024-07-19 00:48:14,453 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-19 00:48:14,462 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp_save
+2024-07-19 00:48:14,535 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp
+2024-07-19 00:48:14,540 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp_save
+2024-07-19 00:48:14,596 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp
+2024-07-19 00:48:14,600 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp_save
+2024-07-19 00:48:14,656 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp
+2024-07-19 00:48:14,661 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-07-19 00:48:14,752 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp
+2024-07-19 00:48:14,759 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-07-19 00:48:14,814 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp
+2024-07-19 00:48:14,821 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp_save
+2024-07-19 00:48:14,874 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp
+2024-07-19 00:48:14,880 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp_save
+2024-07-19 00:48:14,946 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp
+2024-07-19 00:48:14,954 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-19 00:48:14,967 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp_save
+2024-07-19 00:48:15,036 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp
+2024-07-19 00:48:15,043 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp_save
+2024-07-19 00:48:15,099 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp
+2024-07-19 00:48:15,109 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp_save
+2024-07-19 00:48:15,172 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp
+2024-07-19 00:48:15,187 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-07-19 00:48:15,247 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp
+2024-07-19 00:48:15,255 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-07-19 00:48:15,308 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp
+2024-07-19 00:48:15,315 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp_save
+2024-07-19 00:48:15,371 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp
+2024-07-19 00:48:15,377 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp_save
+2024-07-19 00:48:15,432 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp
+2024-07-19 00:48:15,451 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\FreeRTOSConfig.h_save
+2024-07-19 00:48:15,520 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\FreeRTOSConfig.h
+2024-07-19 00:48:15,537 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\freertos.c_save
+2024-07-19 00:48:15,618 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\freertos.c
+2024-07-19 00:48:15,639 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_it.c_save
+2024-07-19 00:48:15,763 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_it.c
+2024-07-19 00:48:15,780 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_it.h_save
+2024-07-19 00:48:15,847 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_it.h
+2024-07-19 00:48:15,876 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_msp.c_save
+2024-07-19 00:48:15,965 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_msp.c
+2024-07-19 00:48:15,971 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\system.tmp_save
+2024-07-19 00:48:16,026 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\system.tmp
+2024-07-19 00:48:16,041 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_timebase_tim.c_save
+2024-07-19 00:48:16,102 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_timebase_tim.c
+2024-07-19 00:48:16,125 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-07-19 00:48:16,211 [INFO] CodeEngine:335 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_hal_conf.h
+2024-07-19 00:48:16,267 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\main.h_save
+2024-07-19 00:48:16,353 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\main.h
+2024-07-19 00:48:16,371 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\main.c_save
+2024-07-19 00:48:16,502 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\main.c
+2024-07-19 00:48:17,148 [INFO] ProjectBuilder:3163 - Time for Copy HAL[1] : 449mS.
+2024-07-19 00:48:17,153 [INFO] ProjectBuilder:4736 - Project Generator version: 4.3.0-B58
+2024-07-19 00:48:17,234 [INFO] ConfigFileManager:1503 - The Die is : DIE413
+2024-07-19 00:48:18,165 [INFO] ProjectBuilder:5002 - Time for Generating toolchain IDE Files: 1012mS.
+2024-07-19 00:48:18,167 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 2mS.
+2024-07-19 00:48:18,181 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.
+2024-07-19 00:50:28,051 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 710373488 Bytes (1073741824)
+2024-07-19 00:50:29,248 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 773288048 Bytes (1073741824)
+2024-07-19 00:50:29,410 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2024-07-19 00:50:29,410 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-07-19 00:50:29,410 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-07-19 00:50:29,410 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-07-19 00:50:29,411 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-07-19 00:50:29,412 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.11.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.11.1.202404110753\\db\
+2024-07-19 00:50:29,485 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\license.tmp_save
+2024-07-19 00:50:29,562 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\license.tmp
+2024-07-19 00:50:29,588 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\gpio.tmp_save
+2024-07-19 00:50:29,660 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\gpio.tmp
+2024-07-19 00:50:29,708 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-19 00:50:29,716 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp_save
+2024-07-19 00:50:29,785 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp
+2024-07-19 00:50:29,792 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp_save
+2024-07-19 00:50:29,858 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp
+2024-07-19 00:50:29,862 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp_save
+2024-07-19 00:50:29,929 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp
+2024-07-19 00:50:29,934 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-07-19 00:50:30,008 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp
+2024-07-19 00:50:30,013 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-07-19 00:50:30,065 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp
+2024-07-19 00:50:30,070 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp_save
+2024-07-19 00:50:30,138 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp
+2024-07-19 00:50:30,146 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp_save
+2024-07-19 00:50:30,227 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp
+2024-07-19 00:50:30,237 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-19 00:50:30,247 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp_save
+2024-07-19 00:50:30,314 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp
+2024-07-19 00:50:30,321 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp_save
+2024-07-19 00:50:30,377 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp
+2024-07-19 00:50:30,386 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp_save
+2024-07-19 00:50:30,440 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp
+2024-07-19 00:50:30,456 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-07-19 00:50:30,514 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp
+2024-07-19 00:50:30,522 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-07-19 00:50:30,579 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp
+2024-07-19 00:50:30,587 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp_save
+2024-07-19 00:50:30,643 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp
+2024-07-19 00:50:30,651 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp_save
+2024-07-19 00:50:30,706 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp
+2024-07-19 00:50:30,724 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\FreeRTOSConfig.h_save
+2024-07-19 00:50:30,793 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\FreeRTOSConfig.h
+2024-07-19 00:50:30,808 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\freertos.c_save
+2024-07-19 00:50:30,873 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\freertos.c
+2024-07-19 00:50:30,901 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_it.c_save
+2024-07-19 00:50:30,976 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_it.c
+2024-07-19 00:50:30,985 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_it.h_save
+2024-07-19 00:50:31,046 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_it.h
+2024-07-19 00:50:31,070 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_msp.c_save
+2024-07-19 00:50:31,147 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_msp.c
+2024-07-19 00:50:31,152 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\system.tmp_save
+2024-07-19 00:50:31,205 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\system.tmp
+2024-07-19 00:50:31,219 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_timebase_tim.c_save
+2024-07-19 00:50:31,280 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_timebase_tim.c
+2024-07-19 00:50:31,302 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-07-19 00:50:31,390 [INFO] CodeEngine:335 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_hal_conf.h
+2024-07-19 00:50:31,443 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\main.h_save
+2024-07-19 00:50:31,506 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\main.h
+2024-07-19 00:50:31,522 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\main.c_save
+2024-07-19 00:50:31,642 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\main.c
+2024-07-19 00:50:32,211 [INFO] ProjectBuilder:3163 - Time for Copy HAL[1] : 405mS.
+2024-07-19 00:50:32,216 [INFO] ProjectBuilder:4736 - Project Generator version: 4.3.0-B58
+2024-07-19 00:50:32,288 [INFO] ConfigFileManager:1503 - The Die is : DIE413
+2024-07-19 00:50:33,153 [INFO] ProjectBuilder:5002 - Time for Generating toolchain IDE Files: 937mS.
+2024-07-19 00:50:33,155 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 2mS.
+2024-07-19 00:50:33,166 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 1mS.
+2024-07-19 00:58:52,887 [INFO] TasksAndQueuesTab:757 - Dynamic
+2024-07-19 00:58:52,888 [WARN] TasksAndQueuesTab:763 - 128 128
+2024-07-19 00:58:52,888 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2024-07-19 00:58:52,888 [INFO] TasksAndQueuesTab:757 - Dynamic
+2024-07-19 00:58:52,888 [WARN] TasksAndQueuesTab:763 - 128 128
+2024-07-19 00:58:52,888 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2024-07-19 00:58:52,888 [INFO] TasksAndQueuesTab:757 - Dynamic
+2024-07-19 00:58:52,888 [WARN] TasksAndQueuesTab:763 - 128 128
+2024-07-19 00:58:52,888 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2024-07-19 00:58:56,587 [INFO] EditThreadDialog:704 - RAM SIZE (in KB): 128
+2024-07-19 00:58:56,587 [INFO] EditThreadDialog:706 - RAM SIZE (in words): 32768
+2024-07-19 00:58:59,672 [INFO] TasksAndQueuesTab:757 - Dynamic
+2024-07-19 00:58:59,672 [WARN] TasksAndQueuesTab:763 - 128 128
+2024-07-19 00:58:59,672 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2024-07-19 00:58:59,672 [INFO] TasksAndQueuesTab:757 - Dynamic
+2024-07-19 00:58:59,672 [WARN] TasksAndQueuesTab:763 - 128 128
+2024-07-19 00:58:59,672 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2024-07-19 00:58:59,672 [INFO] TasksAndQueuesTab:757 - Dynamic
+2024-07-19 00:58:59,672 [WARN] TasksAndQueuesTab:763 - 128 128
+2024-07-19 00:58:59,673 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2024-07-19 00:59:00,425 [INFO] EditThreadDialog:704 - RAM SIZE (in KB): 128
+2024-07-19 00:59:00,425 [INFO] EditThreadDialog:706 - RAM SIZE (in words): 32768
+2024-07-19 00:59:03,766 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 827999744 Bytes (1073741824)
+2024-07-19 00:59:04,309 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 913456640 Bytes (1073741824)
+2024-07-19 00:59:04,509 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2024-07-19 00:59:04,510 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-07-19 00:59:04,510 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-07-19 00:59:04,510 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-07-19 00:59:04,510 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-07-19 00:59:04,512 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.11.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.11.1.202404110753\\db\
+2024-07-19 00:59:04,592 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\license.tmp_save
+2024-07-19 00:59:04,689 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\license.tmp
+2024-07-19 00:59:04,722 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\gpio.tmp_save
+2024-07-19 00:59:04,824 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\gpio.tmp
+2024-07-19 00:59:04,878 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-19 00:59:04,890 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp_save
+2024-07-19 00:59:04,962 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp
+2024-07-19 00:59:04,967 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp_save
+2024-07-19 00:59:05,033 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp
+2024-07-19 00:59:05,038 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp_save
+2024-07-19 00:59:05,096 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp
+2024-07-19 00:59:05,100 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-07-19 00:59:05,174 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp
+2024-07-19 00:59:05,180 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-07-19 00:59:05,239 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp
+2024-07-19 00:59:05,248 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp_save
+2024-07-19 00:59:05,301 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp
+2024-07-19 00:59:05,306 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp_save
+2024-07-19 00:59:05,365 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp
+2024-07-19 00:59:05,373 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-19 00:59:05,383 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp_save
+2024-07-19 00:59:05,456 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp
+2024-07-19 00:59:05,462 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp_save
+2024-07-19 00:59:05,518 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp
+2024-07-19 00:59:05,524 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp_save
+2024-07-19 00:59:05,579 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp
+2024-07-19 00:59:05,593 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-07-19 00:59:05,650 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp
+2024-07-19 00:59:05,658 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-07-19 00:59:05,714 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp
+2024-07-19 00:59:05,722 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp_save
+2024-07-19 00:59:05,776 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp
+2024-07-19 00:59:05,783 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp_save
+2024-07-19 00:59:05,847 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp
+2024-07-19 00:59:05,863 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\FreeRTOSConfig.h_save
+2024-07-19 00:59:05,929 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\FreeRTOSConfig.h
+2024-07-19 00:59:05,943 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\freertos.c_save
+2024-07-19 00:59:06,011 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\freertos.c
+2024-07-19 00:59:06,034 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_it.c_save
+2024-07-19 00:59:06,156 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_it.c
+2024-07-19 00:59:06,164 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_it.h_save
+2024-07-19 00:59:06,223 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_it.h
+2024-07-19 00:59:06,247 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_msp.c_save
+2024-07-19 00:59:06,331 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_msp.c
+2024-07-19 00:59:06,338 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\system.tmp_save
+2024-07-19 00:59:06,394 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\system.tmp
+2024-07-19 00:59:06,409 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_timebase_tim.c_save
+2024-07-19 00:59:06,476 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_timebase_tim.c
+2024-07-19 00:59:06,498 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-07-19 00:59:06,583 [INFO] CodeEngine:335 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_hal_conf.h
+2024-07-19 00:59:06,634 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\main.h_save
+2024-07-19 00:59:06,711 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\main.h
+2024-07-19 00:59:06,727 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\main.c_save
+2024-07-19 00:59:06,856 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\main.c
+2024-07-19 00:59:07,489 [INFO] ProjectBuilder:3163 - Time for Copy HAL[1] : 440mS.
+2024-07-19 00:59:07,493 [INFO] ProjectBuilder:4736 - Project Generator version: 4.3.0-B58
+2024-07-19 00:59:07,569 [INFO] ConfigFileManager:1503 - The Die is : DIE413
+2024-07-19 00:59:08,517 [INFO] ProjectBuilder:5002 - Time for Generating toolchain IDE Files: 1025mS.
+2024-07-19 00:59:08,519 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 1mS.
+2024-07-19 00:59:08,528 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 1mS.
+2024-07-19 01:13:46,108 [INFO] EditThreadDialog:704 - RAM SIZE (in KB): 128
+2024-07-19 01:13:46,109 [INFO] EditThreadDialog:706 - RAM SIZE (in words): 32768
+2024-07-19 01:13:48,297 [INFO] EditThreadDialog:704 - RAM SIZE (in KB): 128
+2024-07-19 01:13:48,297 [INFO] EditThreadDialog:706 - RAM SIZE (in words): 32768
+2024-07-19 01:26:18,092 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 799141368 Bytes (1073741824)
+2024-07-19 01:26:18,260 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2024-07-19 01:26:18,262 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-07-19 01:26:18,262 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-07-19 01:26:18,262 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-07-19 01:26:18,262 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-07-19 01:26:18,264 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.11.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.11.1.202404110753\\db\
+2024-07-19 01:26:18,340 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\license.tmp_save
+2024-07-19 01:26:18,462 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\license.tmp
+2024-07-19 01:26:18,487 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\gpio.tmp_save
+2024-07-19 01:26:18,565 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\gpio.tmp
+2024-07-19 01:26:18,632 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-19 01:26:18,640 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp_save
+2024-07-19 01:26:18,707 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp
+2024-07-19 01:26:18,711 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp_save
+2024-07-19 01:26:18,771 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp
+2024-07-19 01:26:18,777 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp_save
+2024-07-19 01:26:18,833 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp
+2024-07-19 01:26:18,838 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-07-19 01:26:18,899 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp
+2024-07-19 01:26:18,904 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-07-19 01:26:18,961 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp
+2024-07-19 01:26:18,967 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp_save
+2024-07-19 01:26:19,021 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp
+2024-07-19 01:26:19,026 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp_save
+2024-07-19 01:26:19,087 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp
+2024-07-19 01:26:19,094 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-19 01:26:19,104 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp_save
+2024-07-19 01:26:19,167 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp
+2024-07-19 01:26:19,174 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp_save
+2024-07-19 01:26:19,229 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp
+2024-07-19 01:26:19,235 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp_save
+2024-07-19 01:26:19,288 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp
+2024-07-19 01:26:19,301 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-07-19 01:26:19,358 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp
+2024-07-19 01:26:19,365 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-07-19 01:26:19,423 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp
+2024-07-19 01:26:19,431 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp_save
+2024-07-19 01:26:19,493 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp
+2024-07-19 01:26:19,501 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp_save
+2024-07-19 01:26:19,555 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp
+2024-07-19 01:26:19,577 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\FreeRTOSConfig.h_save
+2024-07-19 01:26:19,660 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\FreeRTOSConfig.h
+2024-07-19 01:26:19,676 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\freertos.c_save
+2024-07-19 01:26:19,738 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\freertos.c
+2024-07-19 01:26:19,762 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_it.c_save
+2024-07-19 01:26:19,896 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_it.c
+2024-07-19 01:26:19,910 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_it.h_save
+2024-07-19 01:26:19,971 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_it.h
+2024-07-19 01:26:19,994 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_msp.c_save
+2024-07-19 01:26:20,076 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_msp.c
+2024-07-19 01:26:20,080 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\system.tmp_save
+2024-07-19 01:26:20,133 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\system.tmp
+2024-07-19 01:26:20,148 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_timebase_tim.c_save
+2024-07-19 01:26:20,209 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_timebase_tim.c
+2024-07-19 01:26:20,234 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-07-19 01:26:20,321 [INFO] CodeEngine:335 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_hal_conf.h
+2024-07-19 01:26:20,377 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\main.h_save
+2024-07-19 01:26:20,456 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\main.h
+2024-07-19 01:26:20,472 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\main.c_save
+2024-07-19 01:26:20,592 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\main.c
+2024-07-19 01:26:21,244 [INFO] ProjectBuilder:3163 - Time for Copy HAL[1] : 471mS.
+2024-07-19 01:26:21,248 [INFO] ProjectBuilder:4736 - Project Generator version: 4.3.0-B58
+2024-07-19 01:26:21,321 [INFO] ConfigFileManager:1503 - The Die is : DIE413
+2024-07-19 01:26:22,244 [INFO] ProjectBuilder:5002 - Time for Generating toolchain IDE Files: 996mS.
+2024-07-19 01:26:22,246 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 1mS.
+2024-07-19 01:26:22,256 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.
+2024-07-19 01:28:08,301 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 937026944 Bytes (1073741824)
+2024-07-19 01:28:08,829 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 760931888 Bytes (1073741824)
+2024-07-19 01:28:09,015 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2024-07-19 01:28:09,015 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-07-19 01:28:09,015 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-07-19 01:28:09,015 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-07-19 01:28:09,015 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-07-19 01:28:09,016 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.11.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.11.1.202404110753\\db\
+2024-07-19 01:28:09,088 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\license.tmp_save
+2024-07-19 01:28:09,164 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\license.tmp
+2024-07-19 01:28:09,189 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\gpio.tmp_save
+2024-07-19 01:28:09,293 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\gpio.tmp
+2024-07-19 01:28:09,340 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-19 01:28:09,351 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp_save
+2024-07-19 01:28:09,425 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp
+2024-07-19 01:28:09,431 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp_save
+2024-07-19 01:28:09,488 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp
+2024-07-19 01:28:09,493 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp_save
+2024-07-19 01:28:09,545 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp
+2024-07-19 01:28:09,549 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-07-19 01:28:09,609 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp
+2024-07-19 01:28:09,613 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-07-19 01:28:09,665 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp
+2024-07-19 01:28:09,670 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp_save
+2024-07-19 01:28:09,722 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp
+2024-07-19 01:28:09,727 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp_save
+2024-07-19 01:28:09,785 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp
+2024-07-19 01:28:09,793 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-19 01:28:09,803 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp_save
+2024-07-19 01:28:09,866 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp
+2024-07-19 01:28:09,873 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp_save
+2024-07-19 01:28:09,926 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp
+2024-07-19 01:28:09,933 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp_save
+2024-07-19 01:28:09,988 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp
+2024-07-19 01:28:10,001 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-07-19 01:28:10,056 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp
+2024-07-19 01:28:10,062 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-07-19 01:28:10,115 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp
+2024-07-19 01:28:10,121 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp_save
+2024-07-19 01:28:10,174 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp
+2024-07-19 01:28:10,180 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp_save
+2024-07-19 01:28:10,234 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp
+2024-07-19 01:28:10,249 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\FreeRTOSConfig.h_save
+2024-07-19 01:28:10,323 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\FreeRTOSConfig.h
+2024-07-19 01:28:10,337 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\freertos.c_save
+2024-07-19 01:28:10,397 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\freertos.c
+2024-07-19 01:28:10,424 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_it.c_save
+2024-07-19 01:28:10,495 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_it.c
+2024-07-19 01:28:10,504 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_it.h_save
+2024-07-19 01:28:10,563 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_it.h
+2024-07-19 01:28:10,594 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_msp.c_save
+2024-07-19 01:28:10,671 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_msp.c
+2024-07-19 01:28:10,677 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\system.tmp_save
+2024-07-19 01:28:10,744 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\system.tmp
+2024-07-19 01:28:10,758 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_timebase_tim.c_save
+2024-07-19 01:28:10,821 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_timebase_tim.c
+2024-07-19 01:28:10,843 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-07-19 01:28:10,926 [INFO] CodeEngine:335 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_hal_conf.h
+2024-07-19 01:28:10,993 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\main.h_save
+2024-07-19 01:28:11,055 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\main.h
+2024-07-19 01:28:11,074 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\main.c_save
+2024-07-19 01:28:11,189 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\main.c
+2024-07-19 01:28:11,748 [INFO] ProjectBuilder:3163 - Time for Copy HAL[1] : 400mS.
+2024-07-19 01:28:11,752 [INFO] ProjectBuilder:4736 - Project Generator version: 4.3.0-B58
+2024-07-19 01:28:11,825 [INFO] ConfigFileManager:1503 - The Die is : DIE413
+2024-07-19 01:28:12,609 [INFO] ProjectBuilder:5002 - Time for Generating toolchain IDE Files: 857mS.
+2024-07-19 01:28:12,610 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 1mS.
+2024-07-19 01:28:12,617 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.
+2024-07-19 02:01:48,125 [INFO] TasksAndQueuesTab:757 - Dynamic
+2024-07-19 02:01:48,127 [WARN] TasksAndQueuesTab:763 - 128 128
+2024-07-19 02:01:48,127 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2024-07-19 02:01:48,127 [INFO] TasksAndQueuesTab:757 - Dynamic
+2024-07-19 02:01:48,127 [WARN] TasksAndQueuesTab:763 - 128 128
+2024-07-19 02:01:48,127 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2024-07-19 02:01:48,127 [INFO] TasksAndQueuesTab:757 - Dynamic
+2024-07-19 02:01:48,127 [WARN] TasksAndQueuesTab:763 - 128 128
+2024-07-19 02:01:48,127 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2024-07-19 02:01:49,355 [INFO] EditThreadDialog:704 - RAM SIZE (in KB): 128
+2024-07-19 02:01:49,355 [INFO] EditThreadDialog:706 - RAM SIZE (in words): 32768
+2024-07-19 02:01:52,664 [INFO] TasksAndQueuesTab:757 - Dynamic
+2024-07-19 02:01:52,664 [WARN] TasksAndQueuesTab:763 - 128 128
+2024-07-19 02:01:52,664 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2024-07-19 02:01:52,664 [INFO] TasksAndQueuesTab:757 - Dynamic
+2024-07-19 02:01:52,664 [WARN] TasksAndQueuesTab:763 - 128 128
+2024-07-19 02:01:52,664 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2024-07-19 02:01:52,664 [INFO] TasksAndQueuesTab:757 - Dynamic
+2024-07-19 02:01:52,664 [WARN] TasksAndQueuesTab:763 - 128 128
+2024-07-19 02:01:52,664 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2024-07-19 02:01:55,058 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 793059872 Bytes (1073741824)
+2024-07-19 02:01:55,653 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 843943280 Bytes (1073741824)
+2024-07-19 02:01:55,843 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2024-07-19 02:01:55,843 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-07-19 02:01:55,843 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-07-19 02:01:55,843 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-07-19 02:01:55,843 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-07-19 02:01:55,846 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.11.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.11.1.202404110753\\db\
+2024-07-19 02:01:55,929 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\license.tmp_save
+2024-07-19 02:01:56,061 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\license.tmp
+2024-07-19 02:01:56,096 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\gpio.tmp_save
+2024-07-19 02:01:56,176 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\gpio.tmp
+2024-07-19 02:01:56,227 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-19 02:01:56,235 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp_save
+2024-07-19 02:01:56,299 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp
+2024-07-19 02:01:56,305 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp_save
+2024-07-19 02:01:56,378 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp
+2024-07-19 02:01:56,384 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp_save
+2024-07-19 02:01:56,440 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp
+2024-07-19 02:01:56,444 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-07-19 02:01:56,519 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp
+2024-07-19 02:01:56,523 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-07-19 02:01:56,575 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp
+2024-07-19 02:01:56,579 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp_save
+2024-07-19 02:01:56,641 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp
+2024-07-19 02:01:56,651 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp_save
+2024-07-19 02:01:56,710 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp
+2024-07-19 02:01:56,718 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-19 02:01:56,727 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp_save
+2024-07-19 02:01:56,790 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp
+2024-07-19 02:01:56,797 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp_save
+2024-07-19 02:01:56,851 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp
+2024-07-19 02:01:56,859 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp_save
+2024-07-19 02:01:56,921 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp
+2024-07-19 02:01:56,933 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-07-19 02:01:56,989 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp
+2024-07-19 02:01:56,995 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-07-19 02:01:57,048 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp
+2024-07-19 02:01:57,055 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp_save
+2024-07-19 02:01:57,107 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp
+2024-07-19 02:01:57,113 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp_save
+2024-07-19 02:01:57,176 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp
+2024-07-19 02:01:57,203 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\FreeRTOSConfig.h_save
+2024-07-19 02:01:57,276 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\FreeRTOSConfig.h
+2024-07-19 02:01:57,293 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\freertos.c_save
+2024-07-19 02:01:57,360 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\freertos.c
+2024-07-19 02:01:57,384 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_it.c_save
+2024-07-19 02:01:57,526 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_it.c
+2024-07-19 02:01:57,533 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_it.h_save
+2024-07-19 02:01:57,589 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_it.h
+2024-07-19 02:01:57,613 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_msp.c_save
+2024-07-19 02:01:57,704 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_msp.c
+2024-07-19 02:01:57,709 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\system.tmp_save
+2024-07-19 02:01:57,762 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\system.tmp
+2024-07-19 02:01:57,776 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_timebase_tim.c_save
+2024-07-19 02:01:57,838 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_timebase_tim.c
+2024-07-19 02:01:57,866 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-07-19 02:01:57,963 [INFO] CodeEngine:335 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_hal_conf.h
+2024-07-19 02:01:58,036 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\main.h_save
+2024-07-19 02:01:58,111 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\main.h
+2024-07-19 02:01:58,133 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\main.c_save
+2024-07-19 02:01:58,293 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\main.c
+2024-07-19 02:01:58,906 [INFO] ProjectBuilder:3163 - Time for Copy HAL[1] : 431mS.
+2024-07-19 02:01:58,911 [INFO] ProjectBuilder:4736 - Project Generator version: 4.3.0-B58
+2024-07-19 02:01:58,994 [INFO] ConfigFileManager:1503 - The Die is : DIE413
+2024-07-19 02:02:00,005 [INFO] ProjectBuilder:5002 - Time for Generating toolchain IDE Files: 1094mS.
+2024-07-19 02:02:00,007 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 1mS.
+2024-07-19 02:02:00,017 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.
+2024-07-19 02:02:29,454 [INFO] EditThreadDialog:704 - RAM SIZE (in KB): 128
+2024-07-19 02:02:29,454 [INFO] EditThreadDialog:706 - RAM SIZE (in words): 32768
+2024-07-19 02:02:33,054 [INFO] TasksAndQueuesTab:757 - Dynamic
+2024-07-19 02:02:33,054 [WARN] TasksAndQueuesTab:763 - 128 128
+2024-07-19 02:02:33,054 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2024-07-19 02:02:33,054 [INFO] TasksAndQueuesTab:757 - Dynamic
+2024-07-19 02:02:33,054 [WARN] TasksAndQueuesTab:763 - 128 128
+2024-07-19 02:02:33,054 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2024-07-19 02:02:33,054 [INFO] TasksAndQueuesTab:757 - Dynamic
+2024-07-19 02:02:33,054 [WARN] TasksAndQueuesTab:763 - 128 128
+2024-07-19 02:02:33,059 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2024-07-19 02:02:34,421 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 819045856 Bytes (1073741824)
+2024-07-19 02:02:34,965 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 863612384 Bytes (1073741824)
+2024-07-19 02:02:35,159 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2024-07-19 02:02:35,159 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-07-19 02:02:35,159 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-07-19 02:02:35,159 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-07-19 02:02:35,159 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-07-19 02:02:35,160 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.11.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.11.1.202404110753\\db\
+2024-07-19 02:02:35,223 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\license.tmp_save
+2024-07-19 02:02:35,313 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\license.tmp
+2024-07-19 02:02:35,342 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\gpio.tmp_save
+2024-07-19 02:02:35,414 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\gpio.tmp
+2024-07-19 02:02:35,457 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-19 02:02:35,465 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp_save
+2024-07-19 02:02:35,542 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp
+2024-07-19 02:02:35,546 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp_save
+2024-07-19 02:02:35,613 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp
+2024-07-19 02:02:35,617 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp_save
+2024-07-19 02:02:35,670 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp
+2024-07-19 02:02:35,674 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-07-19 02:02:35,736 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp
+2024-07-19 02:02:35,740 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-07-19 02:02:35,791 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp
+2024-07-19 02:02:35,796 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp_save
+2024-07-19 02:02:35,857 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp
+2024-07-19 02:02:35,862 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp_save
+2024-07-19 02:02:35,921 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp
+2024-07-19 02:02:35,928 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-19 02:02:35,938 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp_save
+2024-07-19 02:02:36,003 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_inc.tmp
+2024-07-19 02:02:36,009 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp_save
+2024-07-19 02:02:36,067 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_vars.tmp
+2024-07-19 02:02:36,074 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp_save
+2024-07-19 02:02:36,151 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_pfp.tmp
+2024-07-19 02:02:36,168 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-07-19 02:02:36,223 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp
+2024-07-19 02:02:36,229 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-07-19 02:02:36,281 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp
+2024-07-19 02:02:36,288 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp_save
+2024-07-19 02:02:36,344 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_default_thread.tmp
+2024-07-19 02:02:36,352 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp_save
+2024-07-19 02:02:36,415 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\rtos_threads.tmp
+2024-07-19 02:02:36,431 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\FreeRTOSConfig.h_save
+2024-07-19 02:02:36,500 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\FreeRTOSConfig.h
+2024-07-19 02:02:36,515 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\freertos.c_save
+2024-07-19 02:02:36,576 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\freertos.c
+2024-07-19 02:02:36,598 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_it.c_save
+2024-07-19 02:02:36,681 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_it.c
+2024-07-19 02:02:36,688 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_it.h_save
+2024-07-19 02:02:36,747 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_it.h
+2024-07-19 02:02:36,777 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_msp.c_save
+2024-07-19 02:02:36,872 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_msp.c
+2024-07-19 02:02:36,895 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\system.tmp_save
+2024-07-19 02:02:36,959 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\MXTmpFiles\system.tmp
+2024-07-19 02:02:36,974 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_timebase_tim.c_save
+2024-07-19 02:02:37,048 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\stm32f4xx_hal_timebase_tim.c
+2024-07-19 02:02:37,076 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-07-19 02:02:37,209 [INFO] CodeEngine:335 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\stm32f4xx_hal_conf.h
+2024-07-19 02:02:37,273 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\main.h_save
+2024-07-19 02:02:37,341 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Inc\main.h
+2024-07-19 02:02:37,354 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\main.c_save
+2024-07-19 02:02:37,495 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\TRAFFICLIGHT_FREERTOS\Core\Src\main.c
+2024-07-19 02:02:37,972 [INFO] ProjectBuilder:3163 - Time for Copy HAL[1] : 326mS.
+2024-07-19 02:02:37,976 [INFO] ProjectBuilder:4736 - Project Generator version: 4.3.0-B58
+2024-07-19 02:02:38,048 [INFO] ConfigFileManager:1503 - The Die is : DIE413
+2024-07-19 02:02:39,196 [INFO] ProjectBuilder:5002 - Time for Generating toolchain IDE Files: 1220mS.
+2024-07-19 02:02:39,203 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 2mS.
+2024-07-19 02:02:39,225 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.

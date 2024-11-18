@@ -1,0 +1,10 @@
+19:20:28 **** Incremental Build of configuration Debug for project STM32_PRINTF_001 ****
+make -j12 all 
+arm-none-eabi-size   STM32_PRINTF_001.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10276	    112	   1912	  12300	   300c	STM32_PRINTF_001.elf
+Finished building: default.size.stdout
+ 
+
+19:20:28 Build Finished. 0 errors, 0 warnings. (took 267ms)
+

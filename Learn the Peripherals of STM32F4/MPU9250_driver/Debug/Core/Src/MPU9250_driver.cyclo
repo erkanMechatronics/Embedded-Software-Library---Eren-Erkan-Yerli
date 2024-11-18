@@ -1,0 +1,5 @@
+../Core/Src/MPU9250_driver.c:10:17:checkCommunicationMPU9250	2
+../Core/Src/MPU9250_driver.c:22:9:readRegisterMPU9250	1
+../Core/Src/MPU9250_driver.c:33:17:writeRegisterMPU9250	2
+../Core/Src/MPU9250_driver.c:45:9:findDeviceAddress	3
+../Core/Src/MPU9250_driver.c:62:17:resetDeviceMPU9250	1

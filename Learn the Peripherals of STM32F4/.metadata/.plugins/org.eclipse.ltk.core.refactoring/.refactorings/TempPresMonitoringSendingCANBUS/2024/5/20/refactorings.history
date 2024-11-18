@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;TempPresMonitoringSendingCANBUS/Core/Inc/MCP2515 (1).h&apos; to &apos;MCP2515.h&apos;" description="Rename resource &apos;MCP2515 (1).h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Inc/MCP2515 (1).h" name="MCP2515.h" stamp="1715942328869" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;TempPresMonitoringSendingCANBUS/Core/Src/MCP2515 (1).c&apos; to &apos;MCP2515.c&apos;" description="Rename resource &apos;MCP2515 (1).c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Src/MCP2515 (1).c" name="MCP2515.c" stamp="1715942339147" updateReferences="true"/>
+</session>

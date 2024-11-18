@@ -1,0 +1,440 @@
+2023-11-04 00:00:20,231 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-11-04 00:00:30,021 [INFO] Gpio:273 - dependency for GPIO [SYS, TIM2]
+2023-11-04 00:00:38,700 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 376948120 Bytes (1065353216)
+2023-11-04 00:00:39,780 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 405781912 Bytes (1065353216)
+2023-11-04 00:00:42,048 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 460309912 Bytes (1065353216)
+2023-11-04 00:00:42,328 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-11-04 00:00:42,329 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-11-04 00:00:42,329 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-11-04 00:00:42,329 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-11-04 00:00:42,329 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-11-04 00:00:42,331 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.11.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.2.202309101412\\db\
+2023-11-04 00:00:42,441 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_007\MXTmpFiles\license.tmp_save
+2023-11-04 00:00:42,513 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_007\MXTmpFiles\license.tmp
+2023-11-04 00:00:42,531 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_007\MXTmpFiles\gpio.tmp_save
+2023-11-04 00:00:42,613 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_007\MXTmpFiles\gpio.tmp
+2023-11-04 00:00:42,667 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_007\Core\Src\stm32f4xx_it.c_save
+2023-11-04 00:00:42,752 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_007\Core\Src\stm32f4xx_it.c
+2023-11-04 00:00:42,761 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_007\Core\Inc\stm32f4xx_it.h_save
+2023-11-04 00:00:42,819 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_007\Core\Inc\stm32f4xx_it.h
+2023-11-04 00:00:42,841 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_007\Core\Src\stm32f4xx_hal_msp.c_save
+2023-11-04 00:00:42,919 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_007\Core\Src\stm32f4xx_hal_msp.c
+2023-11-04 00:00:42,925 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_007\MXTmpFiles\system.tmp_save
+2023-11-04 00:00:42,977 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_007\MXTmpFiles\system.tmp
+2023-11-04 00:00:42,996 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_007\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-11-04 00:00:43,085 [INFO] CodeEngine:335 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_007\Core\Inc\stm32f4xx_hal_conf.h
+2023-11-04 00:00:43,106 [WARN] IPConfigManager:3431 - IP not found : TIM
+2023-11-04 00:00:43,107 [WARN] CodeGenerator:3764 - IP not found : null
+2023-11-04 00:00:43,124 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_007\Core\Inc\main.h_save
+2023-11-04 00:00:43,193 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_007\Core\Inc\main.h
+2023-11-04 00:00:43,207 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_007\Core\Src\main.c_save
+2023-11-04 00:00:43,310 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_007\Core\Src\main.c
+2023-11-04 00:00:43,815 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 250mS.
+2023-11-04 00:00:43,818 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-11-04 00:00:43,985 [INFO] ConfigFileManager:1457 - The Die is : DIE413
+2023-11-04 00:00:45,974 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 2157mS.
+2023-11-04 00:00:45,976 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-11-04 00:00:45,982 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-11-04 00:04:25,386 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-11-04 00:19:23,047 [INFO] MainUpdater:2868 - connection check result : 10
+2023-11-04 00:19:23,169 [INFO] McuFinderGlobals:76 - Set McuFinderConnectedMode to true
+2023-11-04 00:19:23,170 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2023-11-04 00:19:23,172 [INFO] FinderPluginLoader:95 - Searching for filters in installed packs
+2023-11-04 00:19:24,531 [INFO] LoadUrlFilesThread:185 - End of LoadServerUrlFiles without Thread
+2023-11-04 00:19:24,531 [INFO] DetailPanel:341 - Set advertising image to C:/Users/erkan/STM32Cube/Repository/\en.prom-stm32h5-mcu-finder.jpg
+2023-11-04 00:20:54,624 [INFO] MainUpdater:2868 - connection check result : 10
+2023-11-04 00:20:54,624 [INFO] MainUpdater:2868 - connection check result : 10
+2023-11-04 00:20:54,640 [INFO] MicroXplorer:468 - Change Database Path : 
+2023-11-04 00:20:54,640 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.92
+2023-11-04 00:20:54,681 [WARN] ThirdParty:871 - waiting for thirdparty lock release [close project]
+2023-11-04 00:20:54,681 [INFO] ThirdParty:873 - entering critical section [close project]
+2023-11-04 00:20:54,681 [INFO] ThirdParty:883 - exiting critical section [close project]
+2023-11-04 00:20:54,683 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2023-11-04 00:20:54,692 [WARN] IpParametersView:151 - Warning: This peripheral hasn't parameters
+2023-11-04 00:20:54,697 [WARN] MainPanel:272 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2023-11-04 00:20:54,704 [INFO] UtilMem:75 - Begin LoadConfig() Used Memory: 667028232 Bytes (1045430272)
+2023-11-04 00:20:54,704 [INFO] MicroXplorer:468 - Change Database Path : 
+2023-11-04 00:20:54,705 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.92
+2023-11-04 00:20:54,705 [INFO] OpenFileManager:308 - Change cursor
+2023-11-04 00:20:54,725 [INFO] RulesReader:64 - Compatibility file has been processed (293 Rules)
+2023-11-04 00:20:54,731 [INFO] Mcu:1946 - Initializing MCU STM32F407VGTx STM32F407VGTx STM32F407VGT6
+2023-11-04 00:20:55,868 [INFO] Context:659 - Trying to add GPIOservice into a context  which must be forbidden
+2023-11-04 00:20:56,094 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) Unable to find key (Mcu.ThirdPartyNb) in loaded IOC file
+2023-11-04 00:20:56,094 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) Unable to find key (Mcu.PinsNb) in loaded IOC file
+2023-11-04 00:20:56,094 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) Unable to find key (Mcu.IPNb) in loaded IOC file
+2023-11-04 00:20:56,174 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2023-11-04 00:20:56,174 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2023-11-04 00:20:56,174 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2023-11-04 00:20:56,174 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2023-11-04 00:20:56,174 [WARN] ModelIntegratedComponent:184 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2023-11-04 00:20:56,184 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-11-04 00:20:56,185 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-11-04 00:20:56,185 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-11-04 00:20:56,185 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-11-04 00:20:56,185 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-11-04 00:20:56,185 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-11-04 00:20:56,185 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-11-04 00:20:56,185 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-11-04 00:20:56,185 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-11-04 00:20:56,185 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-11-04 00:20:56,185 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-11-04 00:20:56,185 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-11-04 00:20:56,185 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-11-04 00:20:56,185 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-11-04 00:20:56,185 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-11-04 00:20:56,185 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-11-04 00:20:56,185 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-11-04 00:20:56,185 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-11-04 00:20:56,185 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-11-04 00:20:56,185 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-11-04 00:20:56,185 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-11-04 00:20:56,185 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-11-04 00:20:56,185 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-11-04 00:20:56,185 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-11-04 00:20:56,185 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-11-04 00:20:56,185 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-11-04 00:20:56,185 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-11-04 00:20:56,185 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-11-04 00:20:56,185 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-11-04 00:20:56,186 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-11-04 00:20:56,186 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-11-04 00:20:56,186 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-11-04 00:20:56,186 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-11-04 00:20:56,337 [INFO] ThirdPartyModel:298 - Start build external matchings
+2023-11-04 00:20:57,455 [INFO] ThirdPartyModel:316 - End build external matchings
+2023-11-04 00:20:57,745 [INFO] UtilMem:75 - End LoadConfig() Used Memory: 624360248 Bytes (1045430272)
+2023-11-04 00:20:57,759 [WARN] ThirdParty:833 - waiting for thirdparty lock release [change project]
+2023-11-04 00:20:57,759 [INFO] ThirdParty:835 - entering critical section [change project]
+2023-11-04 00:20:57,759 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 1.1.0
+2023-11-04 00:20:57,759 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USBPD 4.1
+2023-11-04 00:20:57,759 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :RoweBots I-CUBE-UNISONRTOS 5.5.0-4
+2023-11-04 00:20:57,759 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2023-11-04 00:20:57,759 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2023-11-04 00:20:57,759 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2023-11-04 00:20:57,759 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2023-11-04 00:20:57,759 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SMBUS 2.1.0
+2023-11-04 00:20:57,759 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2023-11-04 00:20:57,759 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.0
+2023-11-04 00:20:57,759 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 2.0.0
+2023-11-04 00:20:57,759 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.0.1
+2023-11-04 00:20:57,759 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.21.1
+2023-11-04 00:20:57,759 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 2.0.0
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 7.3.0
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.6.0
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.2.0
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :ITTIA_DB I-CUBE-ITTIADB 8.8.0
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.2
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.4
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 1.1.0
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.1.3
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 2.0.0
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.2
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.1
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 2.0.0
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.1.0
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 1.1.1
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :Infineon AIROC-Wi-Fi-Bluetooth-STM32 1.5.1
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 3.0.0
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 3.0.0
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 1.3.0
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 7.0.0
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 1.0.0
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.5.4
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 1.0.0
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 10.0.0
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.1.0
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.0
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.1
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.0
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.1
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 1.0.0
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC6 3.0.0
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.1.0
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2023-11-04 00:20:57,760 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2023-11-04 00:20:57,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.5.0
+2023-11-04 00:20:57,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2023-11-04 00:20:57,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-SMARTAG2 1.2.0
+2023-11-04 00:20:57,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 1.1.0
+2023-11-04 00:20:57,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 2.0.0
+2023-11-04 00:20:57,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.3.1
+2023-11-04 00:20:57,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2023-11-04 00:20:57,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.1.0
+2023-11-04 00:20:57,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 2.0.0
+2023-11-04 00:20:57,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2023-11-04 00:20:57,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :WES I-CUBE-Cesium 1.3.0
+2023-11-04 00:20:57,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.0
+2023-11-04 00:20:57,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2023-11-04 00:20:57,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2023-11-04 00:20:57,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2023-11-04 00:20:57,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.2.0
+2023-11-04 00:20:57,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2023-11-04 00:20:57,762 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.0.0
+2023-11-04 00:20:57,762 [INFO] ThirdParty:841 - exiting critical section [change project]
+2023-11-04 00:20:57,939 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2023-11-04 00:20:57,947 [INFO] PinOutPanel:1499 - setPackage(STM32F407VGTx,LQFP100)
+2023-11-04 00:20:58,152 [INFO] UtilMem:75 - Before build in PCC Used Memory: 327078616 Bytes (1045430272)
+2023-11-04 00:20:58,432 [INFO] UtilMem:75 - After build in PCC Used Memory: 372167384 Bytes (1045430272)
+2023-11-04 00:20:58,453 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,453 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,453 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,453 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,453 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,453 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,453 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,454 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,454 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,454 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,454 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,454 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,454 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,454 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,454 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,454 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,454 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,455 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,455 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,455 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,455 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,455 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,455 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,456 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,456 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,456 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,456 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,456 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,457 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,457 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,457 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,457 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,457 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,458 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,458 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,458 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,458 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,458 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,460 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,460 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,460 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,460 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,460 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,460 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,461 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,461 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,461 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,462 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,462 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,462 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,463 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,463 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,463 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,463 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,465 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,466 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,466 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,467 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-11-04 00:20:58,474 [INFO] ApiDbMcu:507 - Load IP Config File for PDM2PCM
+2023-11-04 00:20:58,503 [INFO] CADModel:165 - CPN selected for project levelSTM32F407VGT6
+2023-11-04 00:20:58,503 [INFO] CADModel:114 - Register for checkConnection events
+2023-11-04 00:20:58,544 [INFO] OpenFileManager:328 - Restore cursor
+2023-11-04 00:20:59,006 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 475745240 Bytes (1045430272)
+2023-11-04 00:20:59,087 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 501668568 Bytes (1045430272)
+2023-11-04 00:20:59,257 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-11-04 00:20:59,257 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-11-04 00:20:59,258 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.11.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.2.202309101412\\db\
+2023-11-04 00:20:59,359 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\MXTmpFiles\license.tmp_save
+2023-11-04 00:20:59,441 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\MXTmpFiles\license.tmp
+2023-11-04 00:20:59,456 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Src\stm32f4xx_it.c_save
+2023-11-04 00:20:59,609 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Src\stm32f4xx_it.c
+2023-11-04 00:20:59,615 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Inc\stm32f4xx_it.h_save
+2023-11-04 00:20:59,682 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Inc\stm32f4xx_it.h
+2023-11-04 00:20:59,725 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Src\stm32f4xx_hal_msp.c_save
+2023-11-04 00:20:59,823 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Src\stm32f4xx_hal_msp.c
+2023-11-04 00:20:59,828 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\MXTmpFiles\system.tmp_save
+2023-11-04 00:20:59,894 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\MXTmpFiles\system.tmp
+2023-11-04 00:20:59,909 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-11-04 00:21:00,017 [INFO] CodeEngine:335 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Inc\stm32f4xx_hal_conf.h
+2023-11-04 00:21:00,060 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Inc\main.h_save
+2023-11-04 00:21:00,149 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Inc\main.h
+2023-11-04 00:21:00,155 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Src\main.c_save
+2023-11-04 00:21:00,245 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Src\main.c
+2023-11-04 00:21:00,990 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 197mS.
+2023-11-04 00:21:00,994 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-11-04 00:21:01,156 [INFO] ConfigFileManager:1457 - The Die is : DIE413
+2023-11-04 00:21:01,160 [INFO] ApiDbMcu:507 - Load IP Config File for FATFS
+2023-11-04 00:21:01,164 [INFO] ApiDbMcu:507 - Load IP Config File for FREERTOS
+2023-11-04 00:21:01,166 [INFO] ApiDbMcu:507 - Load IP Config File for LIBJPEG
+2023-11-04 00:21:01,173 [INFO] ApiDbMcu:507 - Load IP Config File for LWIP
+2023-11-04 00:21:01,178 [INFO] ApiDbMcu:507 - Load IP Config File for MBEDTLS
+2023-11-04 00:21:01,183 [INFO] ApiDbMcu:507 - Load IP Config File for USB_DEVICE
+2023-11-04 00:21:01,187 [INFO] ApiDbMcu:507 - Load IP Config File for USB_HOST
+2023-11-04 00:21:03,640 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 2646mS.
+2023-11-04 00:21:03,642 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-11-04 00:21:03,646 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-11-04 00:21:04,483 [INFO] McuFinderGlobals:76 - Set McuFinderConnectedMode to true
+2023-11-04 00:21:04,488 [INFO] ApiDb:448 - Save user favorites file C:\Users\erkan/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2023-11-04 00:21:04,488 [INFO] ApiDb:452 - User favorites MCUs=[]
+2023-11-04 00:23:42,860 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-11-04 00:25:35,086 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-11-04 00:25:35,163 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-11-04 00:26:02,925 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-11-04 00:26:11,511 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-11-04 00:26:22,707 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 660845400 Bytes (901775360)
+2023-11-04 00:26:23,961 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 687679488 Bytes (901775360)
+2023-11-04 00:26:25,115 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 321176896 Bytes (901775360)
+2023-11-04 00:26:25,266 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-11-04 00:26:25,266 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-11-04 00:26:25,266 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-11-04 00:26:25,266 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-11-04 00:26:25,266 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-11-04 00:26:25,268 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.11.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.2.202309101412\\db\
+2023-11-04 00:26:25,367 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\MXTmpFiles\license.tmp_save
+2023-11-04 00:26:25,446 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\MXTmpFiles\license.tmp
+2023-11-04 00:26:25,468 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\MXTmpFiles\gpio.tmp_save
+2023-11-04 00:26:25,541 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\MXTmpFiles\gpio.tmp
+2023-11-04 00:26:25,586 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Src\stm32f4xx_it.c_save
+2023-11-04 00:26:25,656 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Src\stm32f4xx_it.c
+2023-11-04 00:26:25,663 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Inc\stm32f4xx_it.h_save
+2023-11-04 00:26:25,724 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Inc\stm32f4xx_it.h
+2023-11-04 00:26:25,748 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Src\stm32f4xx_hal_msp.c_save
+2023-11-04 00:26:25,832 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Src\stm32f4xx_hal_msp.c
+2023-11-04 00:26:25,838 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\MXTmpFiles\system.tmp_save
+2023-11-04 00:26:25,893 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\MXTmpFiles\system.tmp
+2023-11-04 00:26:25,912 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-11-04 00:26:25,998 [INFO] CodeEngine:335 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Inc\stm32f4xx_hal_conf.h
+2023-11-04 00:26:26,026 [WARN] IPConfigManager:3431 - IP not found : TIM
+2023-11-04 00:26:26,026 [WARN] CodeGenerator:3764 - IP not found : null
+2023-11-04 00:26:26,044 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Inc\main.h_save
+2023-11-04 00:26:26,112 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Inc\main.h
+2023-11-04 00:26:26,127 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Src\main.c_save
+2023-11-04 00:26:26,229 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Src\main.c
+2023-11-04 00:26:26,681 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 205mS.
+2023-11-04 00:26:26,684 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-11-04 00:26:27,037 [INFO] ConfigFileManager:1457 - The Die is : DIE413
+2023-11-04 00:26:28,183 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1499mS.
+2023-11-04 00:26:28,184 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-11-04 00:26:28,187 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-11-04 00:29:36,552 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 516282200 Bytes (1024458752)
+2023-11-04 00:29:38,329 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 543545176 Bytes (1024458752)
+2023-11-04 00:29:38,798 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 618520408 Bytes (1024458752)
+2023-11-04 00:29:38,974 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-11-04 00:29:38,974 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-11-04 00:29:38,974 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-11-04 00:29:38,974 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-11-04 00:29:38,974 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-11-04 00:29:38,976 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.11.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.2.202309101412\\db\
+2023-11-04 00:29:39,102 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\MXTmpFiles\license.tmp_save
+2023-11-04 00:29:39,179 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\MXTmpFiles\license.tmp
+2023-11-04 00:29:39,193 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\MXTmpFiles\gpio.tmp_save
+2023-11-04 00:29:39,274 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\MXTmpFiles\gpio.tmp
+2023-11-04 00:29:39,320 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Src\stm32f4xx_it.c_save
+2023-11-04 00:29:39,387 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Src\stm32f4xx_it.c
+2023-11-04 00:29:39,394 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Inc\stm32f4xx_it.h_save
+2023-11-04 00:29:39,451 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Inc\stm32f4xx_it.h
+2023-11-04 00:29:39,471 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Src\stm32f4xx_hal_msp.c_save
+2023-11-04 00:29:39,551 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Src\stm32f4xx_hal_msp.c
+2023-11-04 00:29:39,556 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\MXTmpFiles\system.tmp_save
+2023-11-04 00:29:39,613 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\MXTmpFiles\system.tmp
+2023-11-04 00:29:39,631 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-11-04 00:29:39,717 [INFO] CodeEngine:335 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Inc\stm32f4xx_hal_conf.h
+2023-11-04 00:29:39,737 [WARN] IPConfigManager:3431 - IP not found : TIM
+2023-11-04 00:29:39,737 [WARN] CodeGenerator:3764 - IP not found : null
+2023-11-04 00:29:39,754 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Inc\main.h_save
+2023-11-04 00:29:39,824 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Inc\main.h
+2023-11-04 00:29:39,838 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Src\main.c_save
+2023-11-04 00:29:39,938 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Src\main.c
+2023-11-04 00:29:40,372 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 184mS.
+2023-11-04 00:29:40,374 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-11-04 00:29:40,521 [INFO] ConfigFileManager:1457 - The Die is : DIE413
+2023-11-04 00:29:41,808 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1434mS.
+2023-11-04 00:29:41,810 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-11-04 00:29:41,813 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-11-04 00:50:58,619 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-11-04 00:54:13,567 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-11-04 00:54:16,680 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-11-04 00:54:28,049 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 365193888 Bytes (964689920)
+2023-11-04 00:54:28,598 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 407127224 Bytes (964689920)
+2023-11-04 00:54:28,774 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-11-04 00:54:28,774 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-11-04 00:54:28,774 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-11-04 00:54:28,774 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-11-04 00:54:28,774 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-11-04 00:54:28,776 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.11.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.2.202309101412\\db\
+2023-11-04 00:54:28,882 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\MXTmpFiles\license.tmp_save
+2023-11-04 00:54:28,963 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\MXTmpFiles\license.tmp
+2023-11-04 00:54:28,978 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\MXTmpFiles\gpio.tmp_save
+2023-11-04 00:54:29,060 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\MXTmpFiles\gpio.tmp
+2023-11-04 00:54:29,119 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Src\stm32f4xx_it.c_save
+2023-11-04 00:54:29,246 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Src\stm32f4xx_it.c
+2023-11-04 00:54:29,259 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Inc\stm32f4xx_it.h_save
+2023-11-04 00:54:29,319 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Inc\stm32f4xx_it.h
+2023-11-04 00:54:29,341 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Src\stm32f4xx_hal_msp.c_save
+2023-11-04 00:54:29,437 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Src\stm32f4xx_hal_msp.c
+2023-11-04 00:54:29,443 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\MXTmpFiles\system.tmp_save
+2023-11-04 00:54:29,499 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\MXTmpFiles\system.tmp
+2023-11-04 00:54:29,520 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-11-04 00:54:29,603 [INFO] CodeEngine:335 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Inc\stm32f4xx_hal_conf.h
+2023-11-04 00:54:29,623 [WARN] IPConfigManager:3431 - IP not found : TIM
+2023-11-04 00:54:29,623 [WARN] CodeGenerator:3764 - IP not found : null
+2023-11-04 00:54:29,643 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Inc\main.h_save
+2023-11-04 00:54:29,717 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Inc\main.h
+2023-11-04 00:54:29,730 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Src\main.c_save
+2023-11-04 00:54:29,848 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Src\main.c
+2023-11-04 00:54:30,537 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 241mS.
+2023-11-04 00:54:30,540 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-11-04 00:54:30,724 [INFO] ConfigFileManager:1457 - The Die is : DIE413
+2023-11-04 00:54:32,081 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1540mS.
+2023-11-04 00:54:32,082 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-11-04 00:54:32,087 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-11-04 00:56:58,622 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-11-04 00:57:00,977 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 563759312 Bytes (1073741824)
+2023-11-04 00:57:02,924 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 591548624 Bytes (1073741824)
+2023-11-04 00:57:03,409 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 629819600 Bytes (1073741824)
+2023-11-04 00:57:03,629 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-11-04 00:57:03,629 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-11-04 00:57:03,629 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-11-04 00:57:03,629 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-11-04 00:57:03,629 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-11-04 00:57:03,631 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.11.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.2.202309101412\\db\
+2023-11-04 00:57:03,776 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\MXTmpFiles\license.tmp_save
+2023-11-04 00:57:03,860 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\MXTmpFiles\license.tmp
+2023-11-04 00:57:03,875 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\MXTmpFiles\gpio.tmp_save
+2023-11-04 00:57:03,951 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\MXTmpFiles\gpio.tmp
+2023-11-04 00:57:03,997 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Src\stm32f4xx_it.c_save
+2023-11-04 00:57:04,068 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Src\stm32f4xx_it.c
+2023-11-04 00:57:04,074 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Inc\stm32f4xx_it.h_save
+2023-11-04 00:57:04,131 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Inc\stm32f4xx_it.h
+2023-11-04 00:57:04,152 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Src\stm32f4xx_hal_msp.c_save
+2023-11-04 00:57:04,230 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Src\stm32f4xx_hal_msp.c
+2023-11-04 00:57:04,235 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\MXTmpFiles\system.tmp_save
+2023-11-04 00:57:04,288 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\MXTmpFiles\system.tmp
+2023-11-04 00:57:04,307 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-11-04 00:57:04,392 [INFO] CodeEngine:335 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Inc\stm32f4xx_hal_conf.h
+2023-11-04 00:57:04,414 [WARN] IPConfigManager:3431 - IP not found : TIM
+2023-11-04 00:57:04,414 [WARN] CodeGenerator:3764 - IP not found : null
+2023-11-04 00:57:04,431 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Inc\main.h_save
+2023-11-04 00:57:04,503 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Inc\main.h
+2023-11-04 00:57:04,517 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Src\main.c_save
+2023-11-04 00:57:04,620 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_HAL_TIM_008\Core\Src\main.c
+2023-11-04 00:57:05,088 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 216mS.
+2023-11-04 00:57:05,091 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-11-04 00:57:05,399 [INFO] ConfigFileManager:1457 - The Die is : DIE413
+2023-11-04 00:57:06,467 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1376mS.
+2023-11-04 00:57:06,469 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 2mS.
+2023-11-04 00:57:06,472 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.

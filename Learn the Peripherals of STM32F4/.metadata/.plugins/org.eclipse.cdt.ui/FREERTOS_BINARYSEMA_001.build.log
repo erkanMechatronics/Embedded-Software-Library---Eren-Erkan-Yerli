@@ -1,0 +1,10 @@
+21:47:33 **** Incremental Build of configuration Debug for project FREERTOS_BINARYSEMA_001 ****
+make -j12 all 
+arm-none-eabi-size   FREERTOS_BINARYSEMA_001.elf 
+   text	   data	    bss	    dec	    hex	filename
+  21560	    104	  18416	  40080	   9c90	FREERTOS_BINARYSEMA_001.elf
+Finished building: default.size.stdout
+ 
+
+21:47:34 Build Finished. 0 errors, 0 warnings. (took 383ms)
+

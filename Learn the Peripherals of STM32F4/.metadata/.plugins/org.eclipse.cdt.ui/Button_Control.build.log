@@ -1,0 +1,22 @@
+13:21:37 **** Incremental Build of configuration Debug for project Button_Control ****
+make -j12 all 
+arm-none-eabi-gcc -o "Button_Control.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\Button_Control\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Button_Control.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: Button_Control.elf
+ 
+arm-none-eabi-size   Button_Control.elf 
+arm-none-eabi-objdump -h -S  Button_Control.elf  > "Button_Control.list"
+arm-none-eabi-objcopy  -O ihex  Button_Control.elf  "Button_Control.hex"
+   text	   data	    bss	    dec	    hex	filename
+   6016	     20	   1572	   7608	   1db8	Button_Control.elf
+arm-none-eabi-objcopy  -O binary  Button_Control.elf  "Button_Control.bin"
+Finished building: default.size.stdout
+ 
+Finished building: Button_Control.list
+ 
+Finished building: Button_Control.hex
+Finished building: Button_Control.bin
+ 
+ 
+
+13:21:37 Build Finished. 0 errors, 0 warnings. (took 616ms)
+

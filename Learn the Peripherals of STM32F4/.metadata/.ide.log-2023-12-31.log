@@ -1,0 +1,40 @@
+2024-01-01 18:10:48,630 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-01-01 18:10:53,239 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 620568584 Bytes (1073741824)
+2024-01-01 18:10:54,661 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 658317320 Bytes (1073741824)
+2024-01-01 18:10:55,537 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 700795952 Bytes (1073741824)
+2024-01-01 18:10:56,171 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2024-01-01 18:10:56,171 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-01-01 18:10:56,171 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-01-01 18:10:56,171 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-01-01 18:10:56,172 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-01-01 18:10:56,176 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.11.2\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.2.202309101412\\db\
+2024-01-01 18:10:57,020 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_HCSR04\MXTmpFiles\license.tmp_save
+2024-01-01 18:10:57,496 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_HCSR04\MXTmpFiles\license.tmp
+2024-01-01 18:10:57,656 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_HCSR04\MXTmpFiles\gpio.tmp_save
+2024-01-01 18:10:57,868 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_HCSR04\MXTmpFiles\gpio.tmp
+2024-01-01 18:10:58,055 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_HCSR04\Core\Src\stm32f4xx_it.c_save
+2024-01-01 18:10:58,293 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_HCSR04\Core\Src\stm32f4xx_it.c
+2024-01-01 18:10:58,328 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_HCSR04\Core\Inc\stm32f4xx_it.h_save
+2024-01-01 18:10:58,447 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_HCSR04\Core\Inc\stm32f4xx_it.h
+2024-01-01 18:10:58,486 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_HCSR04\Core\Src\stm32f4xx_hal_msp.c_save
+2024-01-01 18:10:58,646 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_HCSR04\Core\Src\stm32f4xx_hal_msp.c
+2024-01-01 18:10:58,665 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_HCSR04\MXTmpFiles\system.tmp_save
+2024-01-01 18:10:58,743 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_HCSR04\MXTmpFiles\system.tmp
+2024-01-01 18:10:58,781 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_HCSR04\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-01-01 18:10:58,928 [INFO] CodeEngine:335 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_HCSR04\Core\Inc\stm32f4xx_hal_conf.h
+2024-01-01 18:10:59,000 [WARN] IPConfigManager:3431 - IP not found : TIM
+2024-01-01 18:10:59,002 [WARN] CodeGenerator:3764 - IP not found : null
+2024-01-01 18:10:59,035 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_HCSR04\Core\Inc\main.h_save
+2024-01-01 18:10:59,165 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_HCSR04\Core\Inc\main.h
+2024-01-01 18:10:59,189 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_HCSR04\Core\Src\main.c_save
+2024-01-01 18:10:59,410 [INFO] CodeEngine:279 - Generated code: C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\HAL_HCSR04\Core\Src\main.c
+2024-01-01 18:11:00,393 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 307mS.
+2024-01-01 18:11:00,402 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2024-01-01 18:11:00,729 [INFO] ConfigFileManager:1457 - The Die is : DIE413
+2024-01-01 18:11:00,747 [INFO] ApiDbMcu:507 - Load IP Config File for FATFS
+2024-01-01 18:11:00,762 [INFO] ApiDbMcu:507 - Load IP Config File for FREERTOS
+2024-01-01 18:11:00,773 [INFO] ApiDbMcu:507 - Load IP Config File for LIBJPEG
+2024-01-01 18:11:00,789 [INFO] ApiDbMcu:507 - Load IP Config File for LWIP
+2024-01-01 18:11:00,809 [INFO] ApiDbMcu:507 - Load IP Config File for MBEDTLS
+2024-01-01 18:11:00,829 [INFO] ApiDbMcu:507 - Load IP Config File for USB_DEVICE
+2024-01-01 18:11:00,844 [INFO] ApiDbMcu:507 - Load IP Config File for USB_HOST

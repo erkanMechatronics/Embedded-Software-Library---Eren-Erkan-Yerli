@@ -1,0 +1,7 @@
+../Core/Src/Nokia5110.c:14:6:LCD5110_Init	7
+../Core/Src/Nokia5110.c:52:6:LCD5110_Reset	1
+../Core/Src/Nokia5110.c:59:6:LCD5110_Write	3
+../Core/Src/Nokia5110.c:82:6:LCD5110_Clear	2
+../Core/Src/Nokia5110.c:91:6:LCD5110_Update	3
+../Core/Src/Nokia5110.c:109:6:LCD5110_PixelWrite	6
+../Core/Src/Nokia5110.c:143:6:LCD5110_BufferWrite	1

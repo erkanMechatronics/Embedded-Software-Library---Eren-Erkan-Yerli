@@ -1,0 +1,16 @@
+21:54:10 **** Build of configuration Debug for project MFK_CLK_004 ****
+make -j12 all 
+arm-none-eabi-gcc -o "MFK_CLK_004.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\erkan\STM32CubeIDE\workspace_1.11.2\MFK_CLK_004\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="MFK_CLK_004.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: MFK_CLK_004.elf
+ 
+arm-none-eabi-size   MFK_CLK_004.elf 
+arm-none-eabi-objdump -h -S  MFK_CLK_004.elf  > "MFK_CLK_004.list"
+   text	   data	    bss	    dec	    hex	filename
+  31832	    152	   3592	  35576	   8af8	MFK_CLK_004.elf
+Finished building: default.size.stdout
+ 
+Finished building: MFK_CLK_004.list
+ 
+
+21:54:11 Build Finished. 0 errors, 0 warnings. (took 883ms)
+

@@ -1,0 +1,10 @@
+19:50:59 **** Incremental Build of configuration Debug for project stm32_usb_transmit ****
+make -j12 all 
+arm-none-eabi-size  stm32_usb_transmit.elf 
+   text	   data	    bss	    dec	    hex	filename
+  28132	    260	   8716	  37108	   90f4	stm32_usb_transmit.elf
+Finished building: default.size.stdout
+ 
+
+19:51:00 Build Finished. 0 errors, 0 warnings. (took 905ms)
+
