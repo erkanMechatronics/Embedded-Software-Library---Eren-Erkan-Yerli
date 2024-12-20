@@ -6,6 +6,8 @@ Examples and practice files to learn the peripherals of the STM32F407VG microcon
 2. Projects:
 A collection of projects where I apply my knowledge of peripherals and FreeRTOS to develop functional applications.
 
+My goal is to secure my first role as an Embedded Software Engineer, and this repository represents my journey in this field.
+
 Feel free to explore, and any feedback is welcome!
 
 Eren Erkan Yerli
